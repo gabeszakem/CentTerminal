@@ -150,7 +150,7 @@ public class CentTerminal {
     
     /**
      * Verziószám
-     * főverzió.ÉVutolsó3számjegyhónapnapaznapi fordításszáma
+     * [főverzió].[ÉVutolsó3számjegy][hónap][nap][aznapi fordításszáma]
      */
     public static String VERSION = "1.0141215001";
 
