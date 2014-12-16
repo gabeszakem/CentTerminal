@@ -152,7 +152,7 @@ public class CentTerminal {
      * Verziószám
      * [főverzió].[ÉVutolsó3számjegy][hónap][nap][aznapi fordításszáma]
      */
-    public static String VERSION = "1.0141215001";
+    public static String VERSION = "1.0141216001";
 
     /**
      * @param args the command line arguments
