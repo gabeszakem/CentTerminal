@@ -1,0 +1,25 @@
+[2014-09-23 06:07:47.254]	[centterminal.CentTerminal] System property: java.library.path: D:\Dropbox\javaprog\CentTerminal\
+[2014-09-23 06:07:48.473]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-09-23 06:07:48.536]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-09-23 06:07:48.567]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-09-23 06:07:49.161]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-09-23 06:07:49.942]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-23 06:07:50.942]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-23 06:07:51.942]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-23 07:28:14.829]	[centterminal.CentTerminal] System property: java.library.path: D:\Dropbox\javaprog\CentTerminal\
+[2014-09-23 07:28:15.672]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-09-23 07:28:15.688]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-09-23 07:28:15.766]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-09-23 07:28:16.844]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-09-23 07:28:17.860]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-09-23 07:28:18.844]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-09-23 07:28:22.126]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-09-23 07:28:22.844]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-23 07:28:23.844]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-23 07:28:24.844]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-23 07:29:13.814]	[centterminal.frame.CentterminalFrame] Record: 2014/09/23 07:28:21 2014/09/23 07:29:13 0
+[2014-09-23 07:29:13.814]	[centterminal.net.tcp.TCPConnectionClient] Allasidőnek küldött rekord: 1 0 0 	1411450101984 1411450153674 0
+[2014-09-23 07:29:13.861]	[centterminal.frame.CentterminalFrame] mode() : Üzemszünet
+[2014-09-23 07:29:13.861]	[centterminal.frame.CentterminalFrame] jButtonOutageActionPerformed(evt) : Üzemszünet nyomógomb megnyomva
+[2014-09-23 07:29:13.908]	[centterminal.frame.CentterminalFrame] mode() : Üzemszünet
+[2014-09-23 07:29:13.908]	[centterminal.frame.CentterminalFrame] refresh() : mod =2, record!=9001

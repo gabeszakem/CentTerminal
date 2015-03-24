@@ -1,0 +1,8 @@
+[2014-11-28 08:15:01.171]	[centterminal.frame.CentterminalFrame] Record: 2014/11/10 08:12:14 2014/11/10 08:15:06 0
+[2014-11-28 08:15:01.234]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2014-11-28 08:15:02.234]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-11-28 08:15:02.718]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-11-28 08:15:03.718]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-11-28 08:15:04.437]	[centterminal.frame.CentterminalFrame] Record: 2014/11/10 08:15:06 2014/11/10 08:15:10 -10003
+[2014-11-28 08:15:04.484]	[centterminal.frame.CentterminalFrame] mode() : Üzemszünet
+[2014-11-28 08:15:04.484]	[centterminal.frame.CentterminalFrame] jButtonOutageActionPerformed(evt) : Üzemszünet nyomógomb megnyomva

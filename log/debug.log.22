@@ -1,0 +1,147 @@
+[2014-09-22 06:59:53.236]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-09-22 06:59:53.298]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-09-22 06:59:53.423]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-09-22 06:59:53.830]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-09-22 06:59:54.751]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-22 06:59:55.767]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-22 06:59:56.752]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-22 12:26:36.778]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-09-22 12:26:36.825]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-09-22 12:26:36.981]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-09-22 12:26:46.544]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-09-22 12:26:47.544]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-09-22 12:26:48.544]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-09-22 12:37:11.666]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-09-22 12:37:12.150]	[centterminal.frame.CentterminalFrame] Record: 2014/09/22 12:37:13 2014/09/22 12:37:13 0
+[2014-09-22 12:37:12.150]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-09-22 12:37:12.150]	[centterminal.net.tcp.TCPConnectionClient] Allasidőnek küldött rekord: 1 0 0 	1411382233060 1411382233552 0
+[2014-09-22 12:37:12.556]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-09-22 12:37:13.556]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-09-22 12:37:14.556]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-09-22 12:40:09.653]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-09-22 12:40:10.560]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-22 12:40:11.153]	[centterminal.frame.CentterminalFrame] Record: 2014/09/22 12:40:11 2014/09/22 12:40:12 0
+[2014-09-22 12:40:11.153]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-09-22 12:40:11.153]	[centterminal.net.tcp.TCPConnectionClient] Allasidőnek küldött rekord: 1 0 0 	1411382411078 1411382412576 0
+[2014-09-22 12:40:11.560]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-09-22 12:40:12.544]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-09-22 12:40:13.544]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-09-22 12:42:21.140]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-09-22 12:42:21.546]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-22 12:42:22.546]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-22 12:42:23.547]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-22 12:46:43.036]	[centterminal.sql.SQL] getNode(10.1.39.15) Hiba történt az adatbázis kapcsolódása közben:
+								org.postgresql.util.PSQLException: Connection attempt timed out.
+	at org.postgresql.Driver$ConnectThread.getResult(Driver.java:372)
+	at org.postgresql.Driver.connect(Driver.java:284)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:215)
+	at centterminal.sql.SQL.getNode(SQL.java:120)
+	at centterminal.setup.SetupDataManager.init(SetupDataManager.java:35)
+	at centterminal.CentTerminal.main(CentTerminal.java:186)
+
+[2014-09-22 12:50:26.884]	[centterminal.sql.SQL] getNode(10.1.39.15) Hiba történt az adatbázis kapcsolódása közben:
+								org.postgresql.util.PSQLException: Connection attempt timed out.
+	at org.postgresql.Driver$ConnectThread.getResult(Driver.java:372)
+	at org.postgresql.Driver.connect(Driver.java:284)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:215)
+	at centterminal.sql.SQL.getNode(SQL.java:120)
+	at centterminal.setup.SetupDataManager.init(SetupDataManager.java:35)
+	at centterminal.CentTerminal.main(CentTerminal.java:186)
+
+[2014-09-22 12:52:12.495]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-09-22 12:52:12.683]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-09-22 12:52:12.777]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-09-22 12:52:13.964]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-09-22 12:52:14.948]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-09-22 12:52:15.949]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-09-22 12:55:18.233]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-09-22 12:55:18.952]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-22 12:55:19.952]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-22 12:55:20.952]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-22 12:56:40.641]	[centterminal.frame.CentterminalFrame] Record: 2014/09/22 12:55:18 2014/09/22 12:56:41 0
+[2014-09-22 12:56:40.641]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-09-22 13:03:23.836]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-09-22 13:17:41.040]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-09-22 13:17:41.150]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-09-22 13:17:41.243]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-09-22 13:17:41.634]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-09-22 13:17:42.368]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-22 13:17:43.368]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-22 13:17:44.368]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-22 13:20:28.325]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-09-22 13:20:28.356]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-09-22 13:20:59.278]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-09-22 13:20:59.669]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-09-22 13:21:00.357]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-22 13:21:01.357]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-22 13:21:02.357]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-22 13:24:29.567]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-09-22 13:24:29.864]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-09-22 13:24:29.942]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-09-22 13:24:31.036]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-09-22 13:24:32.020]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-09-22 13:24:33.021]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-09-22 13:26:26.497]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-09-22 13:26:26.638]	[centterminal.frame.CentterminalFrame] Record: 2014/09/22 13:26:25 2014/09/22 13:26:26 0
+[2014-09-22 13:26:26.638]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-09-22 13:26:27.029]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-09-22 13:26:28.029]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-09-22 13:26:29.029]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-09-22 13:31:31.810]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-09-22 13:31:32.060]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-22 13:31:33.028]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-22 13:31:34.028]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-22 13:32:29.327]	[centterminal.frame.CentterminalFrame] jButtonSetDownTimeCodeActionPerformed(evt) : Állásidő megadása nyomógomb megnyomva
+[2014-09-22 13:32:29.999]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-22 13:32:29.999]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-22 13:32:30.031]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-22 13:35:48.896]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-09-22 13:35:48.958]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-09-22 13:35:49.068]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-09-22 13:35:49.708]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-09-22 13:35:50.349]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-22 13:35:51.333]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-22 13:35:52.380]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-22 13:36:35.694]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-09-22 13:36:35.709]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-09-22 13:36:35.788]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-09-22 13:36:36.147]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-09-22 13:36:36.881]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-22 13:36:37.866]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-22 13:36:38.866]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-22 13:37:11.429]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-09-22 13:37:11.445]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-09-22 13:37:11.523]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-09-22 13:37:11.679]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-09-22 13:37:12.617]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-22 13:37:13.617]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-22 13:37:14.617]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-22 13:37:46.633]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-09-22 13:37:46.664]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-09-22 13:37:46.743]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-09-22 13:37:47.149]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-09-22 13:37:47.821]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-22 13:37:48.805]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-22 13:37:49.805]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-22 13:38:27.556]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-09-22 13:38:27.587]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-09-22 13:38:27.650]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-09-22 13:38:28.150]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-09-22 13:38:28.728]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-22 13:38:29.728]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-22 13:38:30.728]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-22 13:42:13.765]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-09-22 13:42:13.890]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-09-22 13:42:13.952]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-09-22 13:42:15.046]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-09-22 13:42:16.031]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-09-22 13:42:17.031]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-09-22 13:47:09.771]	[centterminal.CentTerminal] System property: java.library.path: D:\Dropbox\javaprog\CentTerminal\
+[2014-09-22 13:47:10.787]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-09-22 13:47:10.818]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-09-22 13:47:10.959]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-09-22 13:47:12.021]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-09-22 13:47:13.021]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-09-22 13:47:14.021]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel

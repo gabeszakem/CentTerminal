@@ -1,0 +1,266 @@
+[2014-10-28 12:02:27.396]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows XP
+[2014-10-28 12:02:27.568]	[centterminal.CentTerminal] System property: java.library.path: D:\Dropbox\javaprog\CentTerminal\
+[2014-10-28 12:02:37.350]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-10-28 12:02:37.365]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-10-28 12:02:37.944]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-10-28 12:02:39.178]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-28 12:02:40.178]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-28 12:02:41.178]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-28 12:06:17.031]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-10-28 12:08:17.037]	[centterminal.frame.CentterminalFrame] Record: 2014/10/28 12:06:19 2014/10/28 12:08:19 0
+[2014-10-28 12:08:17.037]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-10-28 12:11:18.021]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-10-28 12:11:45.193]	[centterminal.frame.CentterminalFrame] Record: 2014/10/28 12:11:19 2014/10/28 12:11:46 0
+[2014-10-28 12:11:45.193]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-10-28 12:11:46.199]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-10-28 12:11:48.227]	[centterminal.frame.CentterminalFrame] Record: 2014/10/28 12:11:47 2014/10/28 12:11:49 0
+[2014-10-28 12:11:48.227]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-10-28 12:11:49.250]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-10-28 12:13:56.967]	[centterminal.frame.CentterminalFrame] Record: 2014/10/28 12:11:50 2014/10/28 12:13:57 0
+[2014-10-28 12:13:56.967]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-10-28 12:14:11.022]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-10-28 12:14:30.058]	[centterminal.frame.CentterminalFrame] Record: 2014/10/28 12:14:11 2014/10/28 12:14:30 0
+[2014-10-28 12:14:30.058]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-10-28 12:14:44.128]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-10-28 12:14:45.116]	[centterminal.frame.CentterminalFrame] Record: 2014/10/28 12:14:44 2014/10/28 12:14:45 0
+[2014-10-28 12:14:45.116]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-10-28 12:14:46.118]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-10-28 12:15:34.251]	[centterminal.frame.CentterminalFrame] Record: 2014/10/28 12:14:46 2014/10/28 12:15:34 0
+[2014-10-28 12:15:34.251]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-10-28 12:23:11.152]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-10-28 12:24:10.242]	[centterminal.frame.CentterminalFrame] Record: 2014/10/28 12:23:10 2014/10/28 12:24:09 0
+[2014-10-28 12:24:10.242]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-10-28 12:24:11.228]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-10-28 12:24:13.261]	[centterminal.frame.CentterminalFrame] Record: 2014/10/28 12:24:10 2014/10/28 12:24:12 0
+[2014-10-28 12:24:13.261]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-10-28 12:24:14.262]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-10-28 12:26:16.314]	[centterminal.frame.CentterminalFrame] Record: 2014/10/28 12:24:13 2014/10/28 12:26:15 0
+[2014-10-28 12:26:16.314]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-10-28 12:26:30.286]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-10-28 12:26:48.271]	[centterminal.frame.CentterminalFrame] Record: 2014/10/28 12:26:29 2014/10/28 12:26:47 0
+[2014-10-28 12:26:48.271]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-10-28 12:27:04.242]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows XP
+[2014-10-28 12:27:04.257]	[centterminal.CentTerminal] System property: java.library.path: D:\Dropbox\javaprog\CentTerminal\
+[2014-10-28 12:27:06.037]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-10-28 12:27:06.068]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-10-28 12:27:06.146]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-10-28 12:27:06.271]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-10-28 12:27:07.239]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-10-28 12:27:08.238]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-10-28 12:27:09.237]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-10-28 12:27:15.248]	[centterminal.frame.CentterminalFrame] Record: 2014/10/28 12:27:05 2014/10/28 12:27:14 0
+[2014-10-28 12:27:15.248]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-10-28 12:27:15.310]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-28 12:27:16.231]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-28 12:27:17.231]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-28 12:30:38.225]	[centterminal.frame.CentterminalFrame] mode() : Üzemszünet
+[2014-10-28 12:30:38.335]	[centterminal.frame.CentterminalFrame] jButtonOutageActionPerformed(evt) : Üzemszünet nyomógomb megnyomva
+[2014-10-28 12:30:43.986]	[centterminal.frame.CentterminalFrame] Record: 2014/10/28 12:30:40 2014/10/28 12:30:46 9001
+[2014-10-28 12:30:44.018]	[centterminal.frame.CentterminalFrame] mode() : TMK
+[2014-10-28 12:30:44.018]	[centterminal.frame.CentterminalFrame] jButtonMaintanenceActionPerformed(evt) : TMK nyomógomb megnyomva
+[2014-10-28 12:30:44.736]	[centterminal.frame.CentterminalFrame] Record: 2014/10/28 12:30:46 2014/10/28 12:30:47 9002
+[2014-10-28 12:30:44.736]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-10-28 12:30:44.736]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-10-28 12:30:44.736]	[centterminal.frame.CentterminalFrame] jButtonProductionActionPerformed(evt) : Termelés nyomógomb megnyomva
+[2014-10-28 12:30:45.315]	[centterminal.frame.CentterminalFrame] mode() : Üzemszünet
+[2014-10-28 12:30:45.315]	[centterminal.frame.CentterminalFrame] jButtonOutageActionPerformed(evt) : Üzemszünet nyomógomb megnyomva
+[2014-10-28 12:30:45.643]	[centterminal.frame.CentterminalFrame] Record: 2014/10/28 12:30:48 2014/10/28 12:30:48 9001
+[2014-10-28 12:30:46.174]	[centterminal.frame.CentterminalFrame] mode() : TMK
+[2014-10-28 12:30:46.174]	[centterminal.frame.CentterminalFrame] jButtonMaintanenceActionPerformed(evt) : TMK nyomógomb megnyomva
+[2014-10-28 12:30:47.877]	[centterminal.frame.CentterminalFrame] Record: 2014/10/28 12:30:48 2014/10/28 12:30:50 9002
+[2014-10-28 12:30:47.893]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-10-28 12:30:47.908]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-10-28 12:30:47.924]	[centterminal.frame.CentterminalFrame] jButtonProductionActionPerformed(evt) : Termelés nyomógomb megnyomva
+[2014-10-28 12:31:20.941]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows XP
+[2014-10-28 12:31:21.004]	[centterminal.CentTerminal] System property: java.library.path: D:\Dropbox\javaprog\CentTerminal\
+[2014-10-28 12:31:27.645]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-10-28 12:31:27.676]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-10-28 12:31:27.754]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-10-28 12:31:29.145]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-28 12:31:30.129]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-28 12:31:31.129]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-28 12:31:34.442]	[centterminal.frame.CentterminalFrame] mode() : Üzemszünet
+[2014-10-28 12:31:34.442]	[centterminal.frame.CentterminalFrame] jButtonOutageActionPerformed(evt) : Üzemszünet nyomógomb megnyomva
+[2014-10-28 12:31:35.489]	[centterminal.frame.CentterminalFrame] Record: 2014/10/28 12:31:37 2014/10/28 12:31:38 9001
+[2014-10-28 12:31:35.489]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-10-28 12:31:35.489]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-10-28 12:31:35.489]	[centterminal.frame.CentterminalFrame] jButtonProductionActionPerformed(evt) : Termelés nyomógomb megnyomva
+[2014-10-28 12:31:36.145]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-28 12:31:37.161]	[centterminal.frame.CentterminalFrame] mode() : TMK
+[2014-10-28 12:31:37.161]	[centterminal.frame.CentterminalFrame] jButtonMaintanenceActionPerformed(evt) : TMK nyomógomb megnyomva
+[2014-10-28 12:31:37.176]	[centterminal.frame.CentterminalFrame] mode() : TMK
+[2014-10-28 12:31:37.176]	[centterminal.frame.CentterminalFrame] refresh() : mod =3, record!=9002
+[2014-10-28 12:31:39.083]	[centterminal.frame.CentterminalFrame] Record: 2014/10/28 12:31:39 2014/10/28 12:31:41 9002
+[2014-10-28 12:31:39.114]	[centterminal.frame.CentterminalFrame] mode() : Üzemszünet
+[2014-10-28 12:31:39.114]	[centterminal.frame.CentterminalFrame] jButtonOutageActionPerformed(evt) : Üzemszünet nyomógomb megnyomva
+[2014-10-28 12:31:40.645]	[centterminal.frame.CentterminalFrame] Record: 2014/10/28 12:31:41 2014/10/28 12:31:43 9001
+[2014-10-28 12:31:40.645]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-10-28 12:31:40.645]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-10-28 12:31:40.645]	[centterminal.frame.CentterminalFrame] jButtonProductionActionPerformed(evt) : Termelés nyomógomb megnyomva
+[2014-10-28 12:31:41.130]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-28 12:31:42.130]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-28 12:31:42.989]	[centterminal.frame.CentterminalFrame] mode() : Üzemszünet
+[2014-10-28 12:31:42.989]	[centterminal.frame.CentterminalFrame] jButtonOutageActionPerformed(evt) : Üzemszünet nyomógomb megnyomva
+[2014-10-28 12:31:44.130]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-28 12:31:44.130]	[centterminal.frame.CentterminalFrame] Record: 2014/10/28 12:31:45 2014/10/28 12:31:46 9001
+[2014-10-28 12:31:44.130]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-10-28 12:31:44.145]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-10-28 12:31:44.145]	[centterminal.frame.CentterminalFrame] jButtonProductionActionPerformed(evt) : Termelés nyomógomb megnyomva
+[2014-10-28 12:31:45.130]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-28 12:31:45.255]	[centterminal.frame.CentterminalFrame] mode() : Üzemszünet
+[2014-10-28 12:31:45.255]	[centterminal.frame.CentterminalFrame] jButtonOutageActionPerformed(evt) : Üzemszünet nyomógomb megnyomva
+[2014-10-28 12:31:46.989]	[centterminal.frame.CentterminalFrame] Record: 2014/10/28 12:31:48 2014/10/28 12:31:49 9001
+[2014-10-28 12:31:46.989]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-10-28 12:31:46.989]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-10-28 12:31:46.989]	[centterminal.frame.CentterminalFrame] jButtonProductionActionPerformed(evt) : Termelés nyomógomb megnyomva
+[2014-10-28 12:31:47.130]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-28 12:31:48.130]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-28 12:31:49.130]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-28 11:32:06.328]	[centterminal.frame.CentterminalFrame] mode() : Üzemszünet
+[2014-10-28 11:32:06.343]	[centterminal.frame.CentterminalFrame] jButtonOutageActionPerformed(evt) : Üzemszünet nyomógomb megnyomva
+[2014-10-28 11:32:07.656]	[centterminal.frame.CentterminalFrame] Record: 2014/10/28 12:32:10 2014/10/28 12:32:12 9001
+[2014-10-28 11:32:07.656]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-10-28 11:32:07.672]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-10-28 11:32:07.672]	[centterminal.frame.CentterminalFrame] jButtonProductionActionPerformed(evt) : Termelés nyomógomb megnyomva
+[2014-10-28 11:32:09.156]	[centterminal.frame.CentterminalFrame] mode() : TMK
+[2014-10-28 11:32:09.156]	[centterminal.frame.CentterminalFrame] jButtonMaintanenceActionPerformed(evt) : TMK nyomógomb megnyomva
+[2014-10-28 11:32:09.734]	[centterminal.frame.CentterminalFrame] Record: 2014/10/28 12:32:13 2014/10/28 12:32:14 9002
+[2014-10-28 11:32:09.781]	[centterminal.frame.CentterminalFrame] mode() : Üzemszünet
+[2014-10-28 11:32:09.781]	[centterminal.frame.CentterminalFrame] jButtonOutageActionPerformed(evt) : Üzemszünet nyomógomb megnyomva
+[2014-10-28 11:32:10.234]	[centterminal.frame.CentterminalFrame] Record: 2014/10/28 12:32:14 2014/10/28 12:32:14 9001
+[2014-10-28 11:32:10.234]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-10-28 11:32:10.234]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-10-28 11:32:10.234]	[centterminal.frame.CentterminalFrame] jButtonProductionActionPerformed(evt) : Termelés nyomógomb megnyomva
+[2014-10-28 11:32:11.406]	[centterminal.frame.CentterminalFrame] mode() : Üzemszünet
+[2014-10-28 11:32:11.406]	[centterminal.frame.CentterminalFrame] jButtonOutageActionPerformed(evt) : Üzemszünet nyomógomb megnyomva
+[2014-10-28 11:32:42.767]	[centterminal.frame.CentterminalFrame] Record: 2014/10/28 12:32:15 2014/10/28 12:32:47 9001
+[2014-10-28 11:32:42.767]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-10-28 11:32:42.767]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-10-28 11:32:42.767]	[centterminal.frame.CentterminalFrame] jButtonProductionActionPerformed(evt) : Termelés nyomógomb megnyomva
+[2014-10-28 11:32:43.486]	[centterminal.frame.CentterminalFrame] mode() : Üzemszünet
+[2014-10-28 11:32:43.486]	[centterminal.frame.CentterminalFrame] jButtonOutageActionPerformed(evt) : Üzemszünet nyomógomb megnyomva
+[2014-10-28 11:33:24.081]	[centterminal.frame.CentterminalFrame] Record: 2014/10/28 12:32:47 2014/10/28 12:33:28 9001
+[2014-10-28 11:33:24.081]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-10-28 11:33:24.081]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-10-28 11:33:24.081]	[centterminal.frame.CentterminalFrame] jButtonProductionActionPerformed(evt) : Termelés nyomógomb megnyomva
+[2014-10-28 11:33:24.862]	[centterminal.frame.CentterminalFrame] mode() : TMK
+[2014-10-28 11:33:24.862]	[centterminal.frame.CentterminalFrame] jButtonMaintanenceActionPerformed(evt) : TMK nyomógomb megnyomva
+[2014-10-28 11:33:25.316]	[centterminal.frame.CentterminalFrame] Record: 2014/10/28 12:33:29 2014/10/28 12:33:29 9002
+[2014-10-28 11:33:25.347]	[centterminal.frame.CentterminalFrame] mode() : Üzemszünet
+[2014-10-28 11:33:25.363]	[centterminal.frame.CentterminalFrame] jButtonOutageActionPerformed(evt) : Üzemszünet nyomógomb megnyomva
+[2014-10-28 11:33:25.597]	[centterminal.frame.CentterminalFrame] Record: 2014/10/28 12:33:29 2014/10/28 12:33:30 9001
+[2014-10-28 11:33:25.613]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-10-28 11:33:25.613]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-10-28 11:33:25.613]	[centterminal.frame.CentterminalFrame] jButtonProductionActionPerformed(evt) : Termelés nyomógomb megnyomva
+[2014-10-28 11:33:53.754]	[centterminal.frame.CentterminalFrame] mode() : Üzemszünet
+[2014-10-28 11:33:54.864]	[centterminal.frame.CentterminalFrame] jButtonOutageActionPerformed(evt) : Üzemszünet nyomógomb megnyomva
+[2014-10-28 11:35:11.945]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows XP
+[2014-10-28 11:35:11.992]	[centterminal.CentTerminal] System property: java.library.path: D:\Dropbox\javaprog\CentTerminal\
+[2014-10-28 11:35:14.492]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-10-28 11:35:14.524]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-10-28 11:35:14.586]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-10-28 11:35:14.680]	[centterminal.CentTerminal] Hiba az udp kapcsolatban (PLC) ::
+								java.net.BindException: Address already in use: Cannot bind
+	at java.net.TwoStacksPlainDatagramSocketImpl.bind0(Native Method)
+	at java.net.TwoStacksPlainDatagramSocketImpl.bind0(TwoStacksPlainDatagramSocketImpl.java:107)
+	at java.net.AbstractPlainDatagramSocketImpl.bind(AbstractPlainDatagramSocketImpl.java:95)
+	at java.net.TwoStacksPlainDatagramSocketImpl.bind(TwoStacksPlainDatagramSocketImpl.java:97)
+	at java.net.DatagramSocket.bind(DatagramSocket.java:376)
+	at java.net.DatagramSocket.<init>(DatagramSocket.java:231)
+	at java.net.DatagramSocket.<init>(DatagramSocket.java:284)
+	at java.net.DatagramSocket.<init>(DatagramSocket.java:256)
+	at centterminal.net.udp.UDPNet.<init>(UDPNet.java:31)
+	at centterminal.net.udp.UDPConnectionServer.<init>(UDPConnectionServer.java:44)
+	at centterminal.CentTerminal.main(CentTerminal.java:194)
+
+[2014-10-28 11:35:29.774]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows XP
+[2014-10-28 11:35:29.790]	[centterminal.CentTerminal] System property: java.library.path: D:\Dropbox\javaprog\CentTerminal\
+[2014-10-28 11:35:31.446]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-10-28 11:35:31.478]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-10-28 11:35:31.571]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-10-28 11:35:43.369]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-10-28 11:35:44.338]	[centterminal.frame.CentterminalFrame] Record: 2014/10/28 12:35:47 2014/10/28 12:35:48 0
+[2014-10-28 11:35:44.338]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-10-28 11:35:48.324]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-10-28 11:36:33.857]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-10-28 11:36:37.671]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-10-28 11:36:38.843]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-10-28 10:40:38.880]	[centterminal.frame.CentterminalFrame] Record: 2014/10/28 12:35:52 2014/10/28 12:40:45 0
+[2014-10-28 10:40:38.927]	[centterminal.frame.CentterminalFrame] mode() : Üzemszünet
+[2014-10-28 10:40:38.927]	[centterminal.frame.CentterminalFrame] jButtonOutageActionPerformed(evt) : Üzemszünet nyomógomb megnyomva
+[2014-10-28 13:41:01.471]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows XP
+[2014-10-28 13:41:01.487]	[centterminal.CentTerminal] System property: java.library.path: D:\Dropbox\javaprog\CentTerminal\
+[2014-10-28 13:41:02.925]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-10-28 13:41:02.940]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-10-28 13:41:03.019]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-10-28 13:41:03.159]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-10-28 13:41:06.708]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-10-28 13:41:07.896]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-10-28 13:41:09.240]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-10-28 12:43:09.877]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows XP
+[2014-10-28 12:43:09.893]	[centterminal.CentTerminal] System property: java.library.path: D:\Dropbox\javaprog\CentTerminal\
+[2014-10-28 12:43:11.626]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-10-28 12:43:11.658]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-10-28 12:43:11.722]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-10-28 12:43:11.931]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-10-28 11:43:28.168]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-10-28 11:43:44.538]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows XP
+[2014-10-28 11:43:44.554]	[centterminal.CentTerminal] System property: java.library.path: D:\Dropbox\javaprog\CentTerminal\
+[2014-10-28 11:43:46.191]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-10-28 11:43:46.208]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-10-28 11:43:46.288]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-10-28 11:43:46.545]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-10-28 11:43:52.660]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-10-28 11:43:54.602]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-10-28 11:44:00.588]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-10-28 10:44:58.308]	[centterminal.frame.CentterminalFrame] Record: 2014/10/28 12:43:59 2014/10/28 12:45:10 0
+[2014-10-28 10:44:58.308]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-10-28 10:45:39.556]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows XP
+[2014-10-28 10:45:39.556]	[centterminal.CentTerminal] System property: java.library.path: D:\Dropbox\javaprog\CentTerminal\
+[2014-10-28 10:45:40.936]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-10-28 10:45:40.952]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-10-28 10:45:41.033]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-10-28 10:45:43.552]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-10-28 09:45:56.076]	[centterminal.frame.CentterminalFrame] Record: 2014/10/28 12:45:54 2014/10/28 12:46:09 0
+[2014-10-28 09:45:56.076]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-10-28 09:45:57.103]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-10-28 09:45:58.163]	[centterminal.frame.CentterminalFrame] Record: 2014/10/28 12:46:10 2014/10/28 12:46:11 0
+[2014-10-28 09:45:58.163]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-10-28 09:45:59.142]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-10-28 09:46:05.321]	[centterminal.frame.CentterminalFrame] Record: 2014/10/28 12:46:12 2014/10/28 12:46:18 0
+[2014-10-28 09:46:05.321]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-10-28 09:46:10.441]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-10-28 09:46:15.577]	[centterminal.frame.CentterminalFrame] Record: 2014/10/28 12:46:23 2014/10/28 12:46:28 0
+[2014-10-28 09:46:15.593]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-10-28 09:46:20.729]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-10-28 09:48:13.182]	[centterminal.frame.CentterminalFrame] Record: 2014/10/28 12:46:33 2014/10/28 12:48:23 0
+[2014-10-28 09:48:13.182]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-10-28 09:48:29.333]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-10-28 09:48:45.562]	[centterminal.frame.CentterminalFrame] Record: 2014/10/28 12:48:39 2014/10/28 12:48:55 0
+[2014-10-28 09:48:45.562]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-10-28 09:49:00.701]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-10-28 09:52:46.216]	[centterminal.frame.CentterminalFrame] Record: 2014/10/28 12:49:10 2014/10/28 12:52:53 0
+[2014-10-28 09:52:46.216]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-10-28 09:59:57.365]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-10-28 13:36:48.844]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows XP
+[2014-10-28 13:36:48.891]	[centterminal.CentTerminal] System property: java.library.path: D:\Dropbox\javaprog\CentTerminal\
+[2014-10-28 13:36:52.118]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-10-28 13:36:52.149]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-10-28 13:36:52.196]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-10-28 13:36:52.463]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-10-28 13:36:53.324]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-10-28 13:36:54.327]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-10-28 13:36:55.329]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-10-28 12:37:08.643]	[centterminal.frame.CentterminalFrame] jButtonSetDownTimeCodeActionPerformed(evt) : Állásidő megadása nyomógomb megnyomva
+[2014-10-28 12:37:09.082]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-10-28 12:37:10.100]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-10-28 12:37:11.103]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-10-28 12:37:30.980]	[centterminal.frame.CentterminalFrame] Record: 2014/10/28 13:36:52 2014/10/28 13:37:32 4000
+[2014-10-28 12:37:31.011]	[centterminal.frame.CentterminalFrame] mode() : Üzemszünet
+[2014-10-28 12:37:31.011]	[centterminal.frame.CentterminalFrame] jButtonOutageActionPerformed(evt) : Üzemszünet nyomógomb megnyomva
+[2014-10-28 12:37:32.327]	[centterminal.frame.CentterminalFrame] Record: 2014/10/28 13:37:32 2014/10/28 13:37:34 9001
+[2014-10-28 12:37:32.358]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-10-28 12:37:32.358]	[centterminal.frame.CentterminalFrame] jButtonProductionActionPerformed(evt) : Termelés nyomógomb megnyomva
+[2014-10-28 12:37:33.157]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-10-28 12:37:34.160]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-10-28 12:37:35.162]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll

@@ -1,0 +1,18 @@
+[2014-10-31 09:48:56.409]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows XP
+[2014-10-31 09:48:56.409]	[centterminal.CentTerminal] beepTimeOut: 10000
+[2014-10-31 09:48:56.409]	[centterminal.CentTerminal] System property: java.library.path: D:\Dropbox\javaprog\CentTerminal\windows\
+[2014-10-31 09:48:57.518]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-10-31 09:48:57.581]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-10-31 09:48:57.628]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-10-31 09:48:58.674]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-31 09:48:59.675]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-31 09:49:00.675]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-31 10:00:04.064]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows XP
+[2014-10-31 10:00:04.079]	[centterminal.CentTerminal] beepTimeOut: 10000
+[2014-10-31 10:00:04.079]	[centterminal.CentTerminal] System property: java.library.path: D:\Dropbox\javaprog\CentTerminal\windows\
+[2014-10-31 10:00:04.798]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-10-31 10:00:04.829]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-10-31 10:00:04.892]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-10-31 10:00:05.939]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-31 10:00:06.939]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-31 10:00:07.939]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel

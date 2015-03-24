@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>D:\Dropbox\javaprog\CentTerminal\dist\CentTerminal.jar</jar>
+  <outfile>D:\Dropbox\javaprog\CentTerminal\windows\centtermial.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir></chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>true</stayAlive>
+  <manifest></manifest>
+  <icon>D:\Dropbox\javaprog\CentTerminal\icon\icon.ico</icon>
+  <classPath>
+    <mainClass>centterminal.CentTerminal</mainClass>
+    <cp>lib/postgresql-9.3-1101.jdbc4.jar</cp>
+    <cp>lib/xFunction.jar</cp>
+    <cp>lib/AbsoluteLayout.jar</cp>
+  </classPath>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <minVersion>1.6.0</minVersion>
+    <maxVersion>1.8.9</maxVersion>
+    <jdkPreference>jreOnly</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+    <opt>-Dlaunch4j.exedir=&quot;%EXEDIR%&quot;</opt>
+  </jre>
+  <messages>
+    <startupErr>Hiba lépett fel az alkalmazás elindításakor</startupErr>
+    <bundledJreErr>Ez az alkalmazás a  Java Runtime Environment (JRE) segítségével futatható,de a JRE nem található, vagy sérült.</bundledJreErr>
+    <jreVersionErr>Az alkalmazáshoz Java Runtime Environment (JRE) szükséges</jreVersionErr>
+    <launcherErr>The registry refers to a nonexistent Java Runtime Environment installation or the runtime is corrupted.</launcherErr>
+    <instanceAlreadyExistsMsg>An application instance is already running.</instanceAlreadyExistsMsg>
+  </messages>
+</launch4jConfig>

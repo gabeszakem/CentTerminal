@@ -1,0 +1,79 @@
+[2014-09-23 07:36:12.338]	[centterminal.CentTerminal] System property: java.library.path: D:\Dropbox\javaprog\CentTerminal\windows\
+[2014-09-23 07:36:13.182]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-09-23 07:36:13.197]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-09-23 07:36:13.260]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-09-23 07:36:13.619]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-09-23 07:36:14.338]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-23 07:36:15.353]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-23 07:36:16.338]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-23 07:37:43.121]	[centterminal.frame.CentterminalFrame] Record: 2014/09/23 07:36:13 2014/09/23 07:37:42 0
+[2014-09-23 07:37:43.121]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-09-23 07:37:43.121]	[centterminal.net.tcp.TCPConnectionClient] Allasidõnek küldött rekord: 1 0 0 	1411450573458 1411450662952 0
+[2014-09-23 07:37:43.340]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-09-23 07:37:44.340]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-09-23 07:37:45.340]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-09-23 07:41:35.141]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-09-23 07:41:35.438]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-23 07:41:35.625]	[centterminal.frame.CentterminalFrame] Record: 2014/09/23 07:41:34 2014/09/23 07:41:35 0
+[2014-09-23 07:41:35.625]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-09-23 07:41:35.625]	[centterminal.net.tcp.TCPConnectionClient] Allasidõnek küldött rekord: 1 0 0 	1411450894958 1411450895442 0
+[2014-09-23 07:41:36.375]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-09-23 07:41:37.344]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-09-23 07:41:38.344]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-09-23 07:45:33.083]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows XP
+[2014-09-23 07:45:33.099]	[centterminal.CentTerminal] System property: java.library.path: D:\Dropbox\javaprog\CentTerminal\windows\
+[2014-09-23 07:45:49.630]	[centterminal.sql.SQL] getNode(10.1.39.15) Hiba történt az adatbázis kapcsolódása közben:
+								org.postgresql.util.PSQLException: ERROR: column "terminal_ip_address" does not exist
+  Position: 27
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2161)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1890)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:255)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:559)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:403)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeQuery(AbstractJdbc2Statement.java:283)
+	at centterminal.sql.SQL.getNode(SQL.java:124)
+	at centterminal.setup.SetupDataManager.init(SetupDataManager.java:35)
+	at centterminal.CentTerminal.main(CentTerminal.java:145)
+
+[2014-09-23 08:04:54.918]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows XP
+[2014-09-23 08:04:54.933]	[centterminal.CentTerminal] System property: java.library.path: D:\Dropbox\javaprog\CentTerminal\windows\
+[2014-09-23 08:04:58.933]	[centterminal.sql.SQL] getNode(10.1.39.15) Hiba történt az adatbázis kapcsolódása közben:
+								org.postgresql.util.PSQLException: ERROR: column "terminal_ip_address" does not exist
+  Position: 27
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2161)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1890)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:255)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:559)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:403)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeQuery(AbstractJdbc2Statement.java:283)
+	at centterminal.sql.SQL.getNode(SQL.java:124)
+	at centterminal.setup.SetupDataManager.init(SetupDataManager.java:35)
+	at centterminal.CentTerminal.main(CentTerminal.java:145)
+
+[2014-09-23 08:05:01.168]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows XP
+[2014-09-23 08:05:01.184]	[centterminal.CentTerminal] Érvénytelen argumentum: centralografIpAddress:10.1.39.11
+[2014-09-23 08:05:23.153]	[centterminal.CentTerminal] beepTimeOut: 10000
+[2014-09-23 08:05:23.168]	[centterminal.CentTerminal] System property: java.library.path: D:\Dropbox\javaprog\CentTerminal\windows\
+[2014-09-23 08:05:29.528]	[centterminal.sql.SQL] getNode(10.1.39.15) Hiba történt az adatbázis kapcsolódása közben:
+								org.postgresql.util.PSQLException: ERROR: column "terminal_ip_address" does not exist
+  Position: 27
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2161)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1890)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:255)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:559)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:403)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeQuery(AbstractJdbc2Statement.java:283)
+	at centterminal.sql.SQL.getNode(SQL.java:124)
+	at centterminal.setup.SetupDataManager.init(SetupDataManager.java:35)
+	at centterminal.CentTerminal.main(CentTerminal.java:145)
+
+[2014-09-23 08:18:17.324]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows XP
+[2014-09-23 08:18:17.324]	[centterminal.CentTerminal] beepTimeOut: 10000
+[2014-09-23 08:18:17.324]	[centterminal.CentTerminal] System property: java.library.path: D:\Dropbox\javaprog\CentTerminal\windows\
+[2014-09-23 08:18:18.464]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-09-23 08:18:18.480]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-09-23 08:18:18.636]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-09-23 08:18:19.152]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-09-23 08:18:20.105]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-23 08:18:21.105]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-09-23 08:18:22.105]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll

@@ -1,0 +1,21 @@
+[2014-12-12 07:15:45.826]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2014-12-12 07:15:45.826]	[centterminal.CentTerminal] Érvénytelen argumentum: -
+[2014-12-12 07:15:49.960]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\windows\
+[2014-12-12 07:15:51.380]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-12-12 07:15:51.552]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-12-12 07:15:51.583]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-12-12 07:15:52.612]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 07:15:53.626]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 07:15:54.640]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 07:18:21.748]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2014-12-12 07:18:21.748]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\windows\
+[2014-12-12 07:18:22.123]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-12-12 07:18:22.138]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-12-12 07:18:22.154]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-12-12 07:18:23.168]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 07:18:24.182]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 07:18:25.196]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 07:19:16.551]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 07:19:16.909]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:19:17.923]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:19:18.937]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll

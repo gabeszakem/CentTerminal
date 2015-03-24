@@ -1,0 +1,4 @@
+beep:false      Beepelés letiltása
+beepTimeOut:10  A beepelés kezdete mp-ben
+centralografIpAddress:10.1.49.200  A centralográf ip címe
+calculatedTimeEnable:false

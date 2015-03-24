@@ -1,0 +1,683 @@
+[2014-12-12 07:22:31.867]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2014-12-12 07:22:31.867]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2014-12-12 07:22:32.398]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-12-12 07:22:32.413]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-12-12 07:22:32.429]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-12-12 07:22:32.585]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 07:22:33.505]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:22:34.519]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:22:35.533]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:24:18.026]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2014-12-12 07:24:18.026]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2014-12-12 07:24:18.557]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-12-12 07:24:18.557]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-12-12 07:24:18.572]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-12-12 07:24:19.103]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 07:24:19.680]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:24:20.694]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:24:21.708]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:28:28.187]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2014-12-12 07:28:28.187]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2014-12-12 07:28:28.640]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-12-12 07:28:28.640]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-12-12 07:28:28.655]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-12-12 07:28:28.983]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 07:28:29.841]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:28:30.855]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:28:31.869]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:28:53.942]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2014-12-12 07:28:53.942]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2014-12-12 07:28:54.348]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-12-12 07:28:54.364]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-12-12 07:28:54.379]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-12-12 07:28:55.409]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 07:28:56.423]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 07:28:57.438]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 07:31:38.310]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2014-12-12 07:31:38.310]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2014-12-12 07:31:38.747]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-12-12 07:31:38.747]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-12-12 07:31:38.762]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-12-12 07:31:38.981]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 07:31:39.950]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:31:40.964]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:31:41.978]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:33:05.678]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2014-12-12 07:33:05.678]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2014-12-12 07:33:06.099]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-12-12 07:33:06.115]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-12-12 07:33:06.115]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-12-12 07:33:06.177]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 07:33:07.145]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:33:08.159]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:33:09.173]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:34:25.852]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2014-12-12 07:34:25.868]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2014-12-12 07:34:26.273]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-12-12 07:34:26.289]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-12-12 07:34:26.305]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-12-12 07:34:26.367]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 07:34:27.334]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:34:28.348]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:34:29.362]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:36:33.654]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2014-12-12 07:36:33.669]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2014-12-12 07:36:34.044]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-12-12 07:36:34.044]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-12-12 07:36:34.059]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-12-12 07:36:34.184]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 07:36:35.089]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:36:36.103]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:36:37.103]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:38:34.928]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2014-12-12 07:38:34.928]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2014-12-12 07:38:35.334]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-12-12 07:38:35.334]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-12-12 07:38:35.365]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-12-12 07:38:35.583]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 07:38:36.394]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:38:37.409]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:38:38.423]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:38:56.044]	[centterminal.frame.CentterminalFrame] jButtonSetDownTimeCodeActionPerformed(evt) : Állásidő megadása nyomógomb megnyomva
+[2014-12-12 07:38:56.637]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:38:57.651]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:38:58.665]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:40:31.649]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2014-12-12 07:40:31.649]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2014-12-12 07:40:32.086]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-12-12 07:40:32.086]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-12-12 07:40:32.101]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-12-12 07:40:32.179]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 07:40:33.131]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:40:34.131]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:40:35.132]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:43:31.688]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2014-12-12 07:43:31.688]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2014-12-12 07:43:32.203]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-12-12 07:43:32.218]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-12-12 07:43:32.249]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-12-12 07:43:32.374]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 07:43:33.310]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:43:34.324]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:43:35.338]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:46:23.690]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2014-12-12 07:46:23.706]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2014-12-12 07:46:24.189]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-12-12 07:46:24.205]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-12-12 07:46:24.221]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-12-12 07:46:24.392]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 07:46:25.250]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:46:26.264]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:46:27.278]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:49:04.550]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2014-12-12 07:49:04.566]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2014-12-12 07:49:05.034]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-12-12 07:49:05.049]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-12-12 07:49:05.049]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-12-12 07:49:05.191]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 07:49:06.113]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:49:07.098]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:49:08.113]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:49:39.746]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2014-12-12 07:49:39.746]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2014-12-12 07:49:43.169]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-12-12 07:49:43.169]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-12-12 07:49:43.185]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-12-12 07:49:43.200]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 07:49:44.234]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:49:45.235]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:49:46.238]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:50:03.950]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2014-12-12 07:50:03.966]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2014-12-12 07:50:04.434]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-12-12 07:50:04.434]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-12-12 07:50:04.449]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-12-12 07:50:04.590]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 07:50:05.494]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:50:06.508]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:50:07.522]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:51:46.517]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2014-12-12 07:51:46.517]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2014-12-12 07:51:46.913]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-12-12 07:51:46.929]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-12-12 07:51:46.960]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-12-12 07:51:46.991]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 07:51:47.990]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:51:49.004]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:51:50.007]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:52:26.596]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 07:52:26.597]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 07:52:26.637]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 07:51:47 2014/12/12 07:52:26 0
+[2014-12-12 07:52:27.083]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 07:52:27.588]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 07:52:28.085]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:52:29.085]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:52:30.086]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:52:36.585]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 07:52:36.585]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 07:52:36.632]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 07:52:27 2014/12/12 07:52:36 0
+[2014-12-12 07:52:37.147]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 07:52:38.161]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 07:52:39.161]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 07:52:41.578]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 07:52:42.159]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:52:43.193]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:52:44.207]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:52:46.591]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 07:52:46.591]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 07:52:46.622]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 07:52:41 2014/12/12 07:52:46 0
+[2014-12-12 07:52:47.236]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 07:52:48.240]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 07:52:49.254]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 07:52:51.578]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 07:52:52.296]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:52:53.307]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:52:54.321]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:52:57.582]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 07:52:57.582]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 07:52:57.629]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 07:52:51 2014/12/12 07:52:57 0
+[2014-12-12 07:52:58.378]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 07:52:59.389]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 07:53:00.389]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 07:53:02.589]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 07:53:03.431]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:53:04.445]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:53:05.459]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:53:08.596]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 07:53:08.596]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 07:53:08.627]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 07:53:02 2014/12/12 07:53:08 0
+[2014-12-12 07:53:09.495]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 07:53:10.495]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 07:53:11.509]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 07:53:13.599]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 07:53:14.535]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:53:15.542]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:53:16.552]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:55:55.671]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2014-12-12 07:55:55.671]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2014-12-12 07:55:56.140]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-12-12 07:55:56.140]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-12-12 07:55:56.172]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-12-12 07:55:56.187]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 07:55:57.248]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:55:58.262]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:55:59.276]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:56:10.589]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 07:56:10.589]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 07:56:10.620]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 07:55:56 2014/12/12 07:56:10 0
+[2014-12-12 07:56:11.418]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 07:56:12.418]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 07:56:13.419]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 07:56:26.581]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 07:56:27.564]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:56:28.578]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:56:29.592]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:56:31.339]	[centterminal.frame.CentterminalFrame] jButtonSetDownTimeCodeActionPerformed(evt) : Állásidő megadása nyomógomb megnyomva
+[2014-12-12 07:56:31.620]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:56:32.634]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:56:33.648]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 07:56:53.589]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 07:56:53.589]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 07:56:53.620]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 07:56:26 2014/12/12 07:56:53 4000
+[2014-12-12 07:56:53.901]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 07:56:54.915]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 07:56:55.929]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:00:25.784]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2014-12-12 08:00:25.784]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2014-12-12 08:00:26.206]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-12-12 08:00:26.221]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-12-12 08:00:26.237]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-12-12 08:00:27.266]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:00:28.280]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:00:29.294]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:03:13.394]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2014-12-12 08:03:13.394]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2014-12-12 08:03:13.784]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-12-12 08:03:13.800]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-12-12 08:03:13.831]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-12-12 08:03:14.861]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:03:15.875]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:03:16.889]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:04:22.625]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 08:04:22.734]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:04:23.748]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:04:24.762]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:04:49.598]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 08:04:49.598]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 08:04:49.644]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 08:04:22 2014/12/12 08:04:49 0
+[2014-12-12 08:04:50.112]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:04:50.612]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 08:04:51.126]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:04:51.641]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 08:04:51.641]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 08:04:51.672]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 08:04:50 2014/12/12 08:04:51 0
+[2014-12-12 08:04:52.127]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:04:52.628]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 08:04:53.127]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:04:54.141]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:04:55.155]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:05:01.895]	[centterminal.frame.CentterminalFrame] jButtonSetDownTimeCodeActionPerformed(evt) : Állásidő megadása nyomógomb megnyomva
+[2014-12-12 08:05:02.253]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:05:03.267]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:05:04.281]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:05:06.606]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 08:05:06.606]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 08:05:06.653]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 08:04:52 2014/12/12 08:05:06 3410
+[2014-12-12 08:05:07.323]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:05:07.604]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 08:05:08.337]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:05:09.352]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:05:10.366]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:05:10.615]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 08:05:10.615]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 08:05:10.646]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 08:05:07 2014/12/12 08:05:10 0
+[2014-12-12 08:05:11.380]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:05:11.598]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 08:05:12.394]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:05:13.408]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:05:14.422]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:07:06.603]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 08:07:06.603]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 08:07:06.650]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 08:05:11 2014/12/12 08:07:06 0
+[2014-12-12 08:07:06.931]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:07:07.945]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:07:08.959]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:07:22.609]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 08:07:23.155]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:07:24.169]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:07:25.183]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:07:38.603]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 08:07:38.603]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 08:07:38.650]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 08:07:22 2014/12/12 08:07:38 0
+[2014-12-12 08:07:39.367]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:07:40.381]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:07:41.395]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:07:58.622]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 08:07:59.636]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:08:00.650]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:08:01.664]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:08:14.612]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 08:08:14.612]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 08:08:14.643]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 08:07:58 2014/12/12 08:08:14 0
+[2014-12-12 08:08:14.846]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:08:15.860]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:08:16.874]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:14:22.627]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 08:14:23.142]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:14:23.610]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 08:14:23.610]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 08:14:23.657]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 08:14:22 2014/12/12 08:14:23 0
+[2014-12-12 08:14:24.156]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:14:24.624]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 08:14:25.170]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:14:26.184]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:14:27.198]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:14:34.626]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 08:14:34.626]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 08:14:34.648]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 08:14:24 2014/12/12 08:14:34 0
+[2014-12-12 08:14:35.290]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:14:35.617]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 08:14:36.304]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:14:36.663]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 08:14:36.663]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 08:14:36.709]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 08:14:35 2014/12/12 08:14:36 0
+[2014-12-12 08:14:37.318]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:14:37.645]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 08:14:38.332]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:14:39.346]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:14:40.345]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:19:40.412]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2014-12-12 08:19:40.428]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2014-12-12 08:19:40.802]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-12-12 08:19:40.818]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-12-12 08:19:40.834]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-12-12 08:19:41.863]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:19:42.877]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:19:43.891]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:22:30.500]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2014-12-12 08:22:30.500]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2014-12-12 08:22:30.968]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-12-12 08:22:30.984]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-12-12 08:22:30.999]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-12-12 08:22:31.046]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 08:22:32.045]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:22:33.059]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:22:34.073]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:24:55.424]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2014-12-12 08:24:55.424]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2014-12-12 08:24:55.798]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-12-12 08:24:55.814]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-12-12 08:24:55.830]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-12-12 08:24:56.859]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:24:57.873]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:24:58.887]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:38:21.881]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2014-12-12 08:38:21.881]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2014-12-12 08:38:22.411]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-12-12 08:38:22.427]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-12-12 08:38:22.443]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-12-12 08:38:22.677]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 08:38:23.519]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:38:24.533]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:38:24.658]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 08:38:24.658]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 08:38:24.705]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 08:38:22 2014/12/12 08:38:24 0
+[2014-12-12 08:38:25.547]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:38:26.561]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:38:27.575]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:38:40.668]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 08:38:40.746]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:38:41.760]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:38:42.774]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:39:09.657]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 08:39:09.657]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 08:39:09.688]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 08:38:40 2014/12/12 08:39:09 0
+[2014-12-12 08:39:10.125]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:39:11.126]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:39:12.140]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:39:30.662]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 08:39:31.380]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:39:31.661]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 08:39:31.661]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 08:39:31.707]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 08:39:30 2014/12/12 08:39:31 0
+[2014-12-12 08:39:32.394]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:39:32.659]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 08:39:33.408]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:39:34.422]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:39:35.436]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:39:46.673]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 08:39:46.673]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 08:39:46.720]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 08:39:32 2014/12/12 08:39:46 0
+[2014-12-12 08:39:47.578]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:39:48.578]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:39:49.592]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:40:51.671]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 08:40:52.342]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:40:52.654]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 08:40:52.654]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 08:40:52.701]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 08:40:51 2014/12/12 08:40:52 0
+[2014-12-12 08:40:53.356]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:40:53.670]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 08:40:54.359]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:40:55.373]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:40:56.373]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:41:05.655]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 08:41:05.655]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 08:41:05.702]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 08:40:53 2014/12/12 08:41:05 0
+[2014-12-12 08:41:06.513]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:41:07.514]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:41:08.528]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:48:47.685]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 08:48:47.872]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:48:48.886]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:48:49.900]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:49:07.664]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 08:49:07.664]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 08:49:07.711]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 08:48:47 2014/12/12 08:49:07 0
+[2014-12-12 08:49:08.085]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:49:09.099]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:49:10.113]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:49:10.675]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 08:49:11.127]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:49:12.141]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:49:13.143]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:49:23.675]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 08:49:23.675]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 08:49:23.706]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 08:49:10 2014/12/12 08:49:23 0
+[2014-12-12 08:49:24.283]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:49:24.673]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 08:49:25.297]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:49:26.311]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:49:27.325]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:49:27.668]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 08:49:27.668]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 08:49:27.715]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 08:49:24 2014/12/12 08:49:27 0
+[2014-12-12 08:49:28.339]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:49:28.667]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 08:49:29.353]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:49:30.354]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:49:31.368]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:49:59.676]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 08:49:59.676]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 08:49:59.707]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:49:59.707]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 08:49:28 2014/12/12 08:49:59 0
+[2014-12-12 08:50:00.721]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:50:01.722]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:50:02.689]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 08:50:02.736]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:50:03.750]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:50:04.701]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 08:50:04.701]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 08:50:04.748]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 08:50:02 2014/12/12 08:50:04 0
+[2014-12-12 08:50:04.764]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:50:05.684]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 08:50:05.778]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:50:06.778]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:50:07.779]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:50:32.673]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 08:50:32.673]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 08:50:32.720]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 08:50:05 2014/12/12 08:50:32 0
+[2014-12-12 08:50:33.094]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:50:33.672]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 08:50:34.108]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:50:35.122]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:50:36.136]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:50:39.665]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 08:50:39.665]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 08:50:39.712]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 08:50:33 2014/12/12 08:50:39 0
+[2014-12-12 08:50:40.180]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:50:41.180]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:50:42.194]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:50:44.677]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 08:50:45.223]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:50:46.237]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:50:47.251]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:52:13.673]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 08:52:13.673]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 08:52:13.720]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 08:50:44 2014/12/12 08:52:13 0
+[2014-12-12 08:52:14.268]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:52:15.282]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:52:16.296]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:52:29.681]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 08:52:30.493]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:52:31.507]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:52:32.508]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:52:56.680]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 08:52:56.680]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 08:52:56.727]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 08:52:29 2014/12/12 08:52:56 0
+[2014-12-12 08:52:56.805]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:52:57.819]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:52:58.833]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:53:18.685]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 08:53:19.060]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:53:20.074]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:53:21.088]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 08:53:33.681]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 08:53:33.681]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 08:53:33.728]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 08:53:18 2014/12/12 08:53:33 0
+[2014-12-12 08:53:34.258]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:53:35.272]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 08:53:36.286]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 09:02:05.679]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 09:02:06.381]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 09:02:07.395]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 09:02:08.409]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 09:02:29.682]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 09:02:29.682]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 09:02:29.713]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 09:02:05 2014/12/12 09:02:29 0
+[2014-12-12 09:02:30.665]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 09:02:30.727]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 09:02:31.507]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 09:02:31.507]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 09:02:31.554]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 09:02:30 2014/12/12 09:02:31 0
+[2014-12-12 09:02:31.679]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 09:02:32.693]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 09:02:32.693]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 09:02:33.707]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 09:02:34.722]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 09:02:35.736]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 09:04:37.683]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 09:04:37.683]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 09:04:37.723]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 09:02:32 2014/12/12 09:04:37 0
+[2014-12-12 09:04:38.193]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 09:04:39.210]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 09:04:40.224]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 09:04:53.695]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 09:04:54.397]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 09:04:55.411]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 09:04:56.412]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 09:05:09.690]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 09:05:09.690]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 09:05:09.736]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 09:04:53 2014/12/12 09:05:09 0
+[2014-12-12 09:05:10.594]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 09:05:11.608]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 09:05:12.622]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 09:05:27.496]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 09:05:27.792]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 09:05:28.697]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 09:05:28.697]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 09:05:28.728]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 09:05:27 2014/12/12 09:05:28 0
+[2014-12-12 09:05:28.806]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 09:05:29.695]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 09:05:29.820]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 09:05:30.834]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 09:05:31.848]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 09:15:11.698]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 09:15:11.698]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 09:15:11.738]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 09:05:29 2014/12/12 09:15:11 0
+[2014-12-12 09:15:11.828]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 09:15:12.844]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 09:15:13.858]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 09:20:50.517]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 09:20:51.016]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 09:20:52.030]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 09:20:53.033]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 09:21:14.708]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 09:21:14.708]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 09:21:14.740]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 09:20:50 2014/12/12 09:21:14 0
+[2014-12-12 09:21:15.317]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 09:21:16.331]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 09:21:16.705]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 09:21:17.345]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 09:21:18.359]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 09:21:19.373]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 09:28:18.502]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 09:28:18.502]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 09:28:18.552]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 09:21:16 2014/12/12 09:28:18 0
+[2014-12-12 09:28:18.842]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 09:28:19.863]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 09:28:20.878]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 09:46:13.599]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2014-12-12 09:46:13.599]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2014-12-12 09:46:13.989]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-12-12 09:46:14.004]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-12-12 09:46:14.036]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-12-12 09:46:14.145]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 09:46:15.081]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 09:46:16.095]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 09:46:17.109]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 11:34:11.670]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2014-12-12 11:34:11.686]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2014-12-12 11:40:03.867]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2014-12-12 11:40:03.867]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2014-12-12 11:41:21.910]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2014-12-12 11:41:21.910]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2014-12-12 11:41:22.378]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-12-12 11:41:22.393]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-12-12 11:41:22.409]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-12-12 11:41:22.487]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 11:41:23.485]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 11:41:24.486]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 11:41:25.500]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 11:41:25.687]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 11:41:25.687]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 11:41:25.734]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 11:41:23 2014/12/12 11:41:26 0
+[2014-12-12 11:41:26.514]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 11:41:27.528]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 11:41:28.543]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 11:41:30.695]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 11:41:31.585]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 11:41:32.599]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 11:41:33.613]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 11:43:58.653]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2014-12-12 11:43:58.668]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2014-12-12 11:43:59.121]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-12-12 11:43:59.136]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-12-12 11:43:59.136]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-12-12 11:44:00.244]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 11:44:01.258]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 11:44:02.272]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 11:47:45.061]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2014-12-12 11:47:45.061]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2014-12-12 11:47:45.513]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-12-12 11:47:45.513]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-12-12 11:47:45.529]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-12-12 11:47:46.605]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 11:47:47.619]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 11:51:57.809]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2014-12-12 11:51:57.825]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2014-12-12 11:51:58.277]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-12-12 11:51:58.293]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-12-12 11:51:58.309]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-12-12 11:51:58.543]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 11:51:59.369]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 11:52:00.384]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 11:52:01.385]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 11:54:03.537]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2014-12-12 11:54:03.553]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2014-12-12 11:54:04.052]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-12-12 11:54:04.068]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-12-12 11:54:04.099]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-12-12 11:54:05.146]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 11:54:06.176]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 11:54:07.190]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 11:54:08.705]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 11:54:09.204]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 11:54:10.204]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 11:54:11.218]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 11:54:26.711]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 11:54:26.711]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 11:54:26.742]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 11:54:09 2014/12/12 11:54:27 0
+[2014-12-12 11:54:27.429]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 11:54:28.443]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 11:54:29.457]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 11:54:43.711]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 11:54:44.631]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 11:54:44.725]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 11:54:44.725]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 11:54:44.756]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 11:54:44 2014/12/12 11:54:45 0
+[2014-12-12 11:54:45.645]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 11:54:45.692]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-12-12 11:54:46.659]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 11:54:47.673]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 11:54:48.687]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-12-12 11:55:08.707]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-12-12 11:55:08.707]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2014-12-12 11:55:08.754]	[centterminal.frame.CentterminalFrame] Record: 2014/12/12 11:54:46 2014/12/12 11:55:09 0
+[2014-12-12 11:55:08.956]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 11:55:09.970]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 11:55:10.971]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 11:57:02.505]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2014-12-12 11:57:02.520]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2014-12-12 11:57:03.175]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-12-12 11:57:03.191]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-12-12 11:57:03.207]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-12-12 11:57:04.283]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 11:57:05.297]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 11:57:06.311]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 11:59:17.789]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2014-12-12 11:59:17.789]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2014-12-12 11:59:18.163]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-12-12 11:59:18.179]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-12-12 11:59:18.194]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-12-12 11:59:19.226]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 11:59:20.226]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 11:59:21.241]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 12:01:23.730]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2014-12-12 12:01:23.746]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2014-12-12 12:01:24.167]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-12-12 12:01:24.183]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-12-12 12:01:24.198]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-12-12 12:01:25.229]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 12:01:26.247]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-12-12 12:01:27.261]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel

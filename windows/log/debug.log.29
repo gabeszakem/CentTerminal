@@ -1,0 +1,53 @@
+[2014-10-29 10:45:34.500]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows XP
+[2014-10-29 10:45:34.500]	[centterminal.CentTerminal] beepTimeOut: 10000
+[2014-10-29 10:45:34.515]	[centterminal.CentTerminal] System property: java.library.path: D:\Dropbox\javaprog\CentTerminal\windows\
+[2014-10-29 10:45:35.406]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-10-29 10:45:35.437]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-10-29 10:45:35.484]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-10-29 10:45:35.703]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-10-29 10:45:36.516]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-10-29 10:45:37.516]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-10-29 10:45:38.531]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-10-29 12:04:27.952]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows XP
+[2014-10-29 12:04:28.139]	[centterminal.CentTerminal] beepTimeOut: 10000
+[2014-10-29 12:04:28.139]	[centterminal.CentTerminal] System property: java.library.path: D:\Dropbox\javaprog\CentTerminal\windows\
+[2014-10-29 12:04:32.327]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-10-29 12:04:32.405]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-10-29 12:04:32.577]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-10-29 12:04:33.687]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:04:34.687]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:04:35.687]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:04:58.860]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-10-29 12:04:59.689]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-10-29 12:05:00.689]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-10-29 12:05:01.689]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-10-29 12:05:27.816]	[centterminal.frame.CentterminalFrame] Record: 2014/10/29 12:04:57 2014/10/29 12:05:26 0
+[2014-10-29 12:05:27.816]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-10-29 12:05:28.691]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:05:29.691]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:05:30.691]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:08:32.846]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows XP
+[2014-10-29 12:08:32.846]	[centterminal.CentTerminal] beepTimeOut: 10000
+[2014-10-29 12:08:32.846]	[centterminal.CentTerminal] System property: java.library.path: D:\Dropbox\javaprog\CentTerminal\windows\
+[2014-10-29 12:08:33.502]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-10-29 12:08:33.517]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-10-29 12:08:33.564]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-10-29 12:08:33.642]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-10-29 12:08:33.814]	[centterminal.frame.CentterminalFrame] Record: 2014/10/29 12:08:32 2014/10/29 12:08:32 0
+[2014-10-29 12:08:33.814]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-10-29 12:08:34.611]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:08:35.611]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:08:36.611]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:09:12.677]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2014-10-29 12:09:13.708]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2014-10-29 12:09:14.708]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2014-10-29 12:10:26.151]	[centterminal.frame.CentterminalFrame] Record: 2014/10/29 12:09:11 2014/10/29 12:10:24 -10003
+[2014-10-29 12:10:26.198]	[centterminal.frame.CentterminalFrame] mode() : Üzemszünet
+[2014-10-29 12:10:26.198]	[centterminal.frame.CentterminalFrame] jButtonOutageActionPerformed(evt) : Üzemszünet nyomógomb megnyomva
+[2014-10-29 12:10:26.682]	[centterminal.frame.CentterminalFrame] Record: 2014/10/29 12:10:25 2014/10/29 12:10:25 9001
+[2014-10-29 12:10:26.792]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-10-29 12:10:26.792]	[centterminal.frame.CentterminalFrame] jButtonProductionActionPerformed(evt) : Termelés nyomógomb megnyomva
+[2014-10-29 12:10:26.886]	[centterminal.frame.CentterminalFrame] Record: 2014/10/29 12:10:25 2014/10/29 12:10:25 0
+[2014-10-29 12:10:26.932]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2014-10-29 12:10:27.932]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2014-10-29 12:10:28.933]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban

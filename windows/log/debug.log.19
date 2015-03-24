@@ -1,0 +1,17 @@
+[2015-02-19 09:02:13.160]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2015-02-19 09:02:13.160]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\windows\
+[2015-02-19 09:02:16.578]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2015-02-19 09:02:16.921]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2015-02-19 09:02:16.937]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2015-02-19 09:02:17.124]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2015-02-19 09:02:17.967]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-02-19 09:02:18.981]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-02-19 09:02:19.012]	[centterminal.frame.CentterminalFrame] jButtonAboutBoxActionPerformed(evt) : Névjegy nyomógomb megnyomva
+[2015-02-19 09:02:19.043]	[centterminal.frame.CentterminalFrame] jButtonAboutBoxActionPerformed(evt) : Névjegy megjelenítve..
+[2015-02-19 09:02:19.995]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-02-19 09:02:21.009]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-02-19 09:02:22.023]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-02-19 09:02:59.451]	[centterminal.frame.CentterminalFrame] closeButtonActionPerformed(evt) : Névjegy ablak bezárva
+[2015-02-19 09:02:59.513]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-02-19 09:03:00.527]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-02-19 09:03:01.541]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll

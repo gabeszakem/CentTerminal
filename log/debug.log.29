@@ -1,0 +1,116 @@
+[2014-10-29 12:12:20.785]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows XP
+[2014-10-29 12:12:20.847]	[centterminal.CentTerminal] System property: java.library.path: D:\Dropbox\javaprog\CentTerminal\
+[2014-10-29 12:12:27.567]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-10-29 12:12:27.614]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-10-29 12:12:27.832]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-10-29 12:12:28.879]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-10-29 12:12:30.848]	[centterminal.frame.CentterminalFrame] Record: 2014/10/29 12:12:27 2014/10/29 12:12:29 0
+[2014-10-29 12:12:30.848]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-10-29 12:12:31.864]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-10-29 12:12:39.536]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-10-29 12:12:40.536]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-10-29 12:12:41.536]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-10-29 12:12:59.819]	[centterminal.frame.CentterminalFrame] Record: 2014/10/29 12:12:30 2014/10/29 12:12:58 0
+[2014-10-29 12:12:59.882]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2014-10-29 12:13:00.882]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2014-10-29 12:13:01.882]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2014-10-29 12:25:25.189]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows XP
+[2014-10-29 12:25:25.205]	[centterminal.CentTerminal] System property: java.library.path: D:\Dropbox\javaprog\CentTerminal\
+[2014-10-29 12:25:26.001]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-10-29 12:25:26.017]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-10-29 12:25:26.080]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-10-29 12:25:26.298]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2014-10-29 12:25:27.127]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-10-29 12:25:28.127]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-10-29 12:25:29.127]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2014-10-29 12:25:35.893]	[centterminal.frame.CentterminalFrame] Record: 2014/10/29 12:25:24 2014/10/29 12:25:34 0
+[2014-10-29 12:25:35.908]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2014-10-29 12:25:36.143]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:25:37.143]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:25:38.143]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:33:03.537]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows XP
+[2014-10-29 12:33:03.552]	[centterminal.CentTerminal] System property: java.library.path: D:\Dropbox\javaprog\CentTerminal\
+[2014-10-29 12:33:04.365]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-10-29 12:33:04.396]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-10-29 12:33:04.443]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-10-29 12:33:05.505]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:33:06.506]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:33:07.506]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:33:10.615]	[centterminal.net.udp.UDPNet] Hiba az udp kapcsolatban, a /10.1.39.15 című géptől jött üzenet!
+[2014-10-29 12:33:11.506]	[centterminal.net.udp.UDPNet] Hiba az udp kapcsolatban, a /10.1.39.15 című géptől jött üzenet!
+[2014-10-29 12:33:11.506]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:33:12.412]	[centterminal.net.udp.UDPNet] Hiba az udp kapcsolatban, a /10.1.39.15 című géptől jött üzenet!
+[2014-10-29 12:33:12.506]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:33:13.303]	[centterminal.net.udp.UDPNet] Hiba az udp kapcsolatban, a /10.1.39.15 című géptől jött üzenet!
+[2014-10-29 12:33:13.506]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:33:14.209]	[centterminal.net.udp.UDPNet] Hiba az udp kapcsolatban, a /10.1.39.15 című géptől jött üzenet!
+[2014-10-29 12:33:14.506]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:33:15.116]	[centterminal.net.udp.UDPNet] Hiba az udp kapcsolatban, a /10.1.39.15 című géptől jött üzenet!
+[2014-10-29 12:33:15.506]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:33:16.022]	[centterminal.net.udp.UDPNet] Hiba az udp kapcsolatban, a /10.1.39.15 című géptől jött üzenet!
+[2014-10-29 12:33:16.506]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:33:16.913]	[centterminal.net.udp.UDPNet] Hiba az udp kapcsolatban, a /10.1.39.15 című géptől jött üzenet!
+[2014-10-29 12:33:17.506]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:33:17.819]	[centterminal.net.udp.UDPNet] Hiba az udp kapcsolatban, a /10.1.39.15 című géptől jött üzenet!
+[2014-10-29 12:33:18.506]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:33:18.710]	[centterminal.net.udp.UDPNet] Hiba az udp kapcsolatban, a /10.1.39.15 című géptől jött üzenet!
+[2014-10-29 12:33:19.507]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:33:19.616]	[centterminal.net.udp.UDPNet] Hiba az udp kapcsolatban, a /10.1.39.15 című géptől jött üzenet!
+[2014-10-29 12:33:33.680]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows XP
+[2014-10-29 12:33:33.680]	[centterminal.CentTerminal] System property: java.library.path: D:\Dropbox\javaprog\CentTerminal\
+[2014-10-29 12:33:34.648]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2014-10-29 12:33:34.664]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2014-10-29 12:33:34.711]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2014-10-29 12:33:34.930]	[centterminal.net.udp.UDPNet] Hiba az udp kapcsolatban, a /10.1.39.15 című géptől jött üzenet!
+[2014-10-29 12:33:35.773]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:33:35.836]	[centterminal.net.udp.UDPNet] Hiba az udp kapcsolatban, a /10.1.39.15 című géptől jött üzenet!
+[2014-10-29 12:33:36.727]	[centterminal.net.udp.UDPNet] Hiba az udp kapcsolatban, a /10.1.39.15 című géptől jött üzenet!
+[2014-10-29 12:33:36.774]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:33:37.633]	[centterminal.net.udp.UDPNet] Hiba az udp kapcsolatban, a /10.1.39.15 című géptől jött üzenet!
+[2014-10-29 12:33:37.774]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:33:38.539]	[centterminal.net.udp.UDPNet] Hiba az udp kapcsolatban, a /10.1.39.15 című géptől jött üzenet!
+[2014-10-29 12:33:38.774]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:33:39.430]	[centterminal.net.udp.UDPNet] Hiba az udp kapcsolatban, a /10.1.39.15 című géptől jött üzenet!
+[2014-10-29 12:33:39.774]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:33:40.336]	[centterminal.net.udp.UDPNet] Hiba az udp kapcsolatban, a /10.1.39.15 című géptől jött üzenet!
+[2014-10-29 12:33:40.774]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:33:41.227]	[centterminal.net.udp.UDPNet] Hiba az udp kapcsolatban, a /10.1.39.15 című géptől jött üzenet!
+[2014-10-29 12:33:41.774]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:33:42.133]	[centterminal.net.udp.UDPNet] Hiba az udp kapcsolatban, a /10.1.39.15 című géptől jött üzenet!
+[2014-10-29 12:33:42.774]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:33:43.040]	[centterminal.net.udp.UDPNet] Hiba az udp kapcsolatban, a /10.1.39.15 című géptől jött üzenet!
+[2014-10-29 12:33:43.774]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:33:43.930]	[centterminal.net.udp.UDPNet] Hiba az udp kapcsolatban, a /10.1.39.15 című géptől jött üzenet!
+[2014-10-29 12:33:44.774]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:33:44.837]	[centterminal.net.udp.UDPNet] Hiba az udp kapcsolatban, a /10.1.39.15 című géptől jött üzenet!
+[2014-10-29 12:33:45.743]	[centterminal.net.udp.UDPNet] Hiba az udp kapcsolatban, a /10.1.39.15 című géptől jött üzenet!
+[2014-10-29 12:33:45.774]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:33:46.634]	[centterminal.net.udp.UDPNet] Hiba az udp kapcsolatban, a /10.1.39.15 című géptől jött üzenet!
+[2014-10-29 12:33:46.774]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:33:47.540]	[centterminal.net.udp.UDPNet] Hiba az udp kapcsolatban, a /10.1.39.15 című géptől jött üzenet!
+[2014-10-29 12:33:47.774]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:33:48.446]	[centterminal.net.udp.UDPNet] Hiba az udp kapcsolatban, a /10.1.39.15 című géptől jött üzenet!
+[2014-10-29 12:33:48.774]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:33:49.337]	[centterminal.net.udp.UDPNet] Hiba az udp kapcsolatban, a /10.1.39.15 című géptől jött üzenet!
+[2014-10-29 12:33:49.775]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:33:50.243]	[centterminal.net.udp.UDPNet] Hiba az udp kapcsolatban, a /10.1.39.15 című géptől jött üzenet!
+[2014-10-29 12:33:50.775]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:33:51.134]	[centterminal.net.udp.UDPNet] Hiba az udp kapcsolatban, a /10.1.39.15 című géptől jött üzenet!
+[2014-10-29 12:33:51.775]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:33:52.040]	[centterminal.net.udp.UDPNet] Hiba az udp kapcsolatban, a /10.1.39.15 című géptől jött üzenet!
+[2014-10-29 12:33:52.775]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:33:52.947]	[centterminal.net.udp.UDPNet] Hiba az udp kapcsolatban, a /10.1.39.15 című géptől jött üzenet!
+[2014-10-29 12:33:53.775]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:33:53.837]	[centterminal.net.udp.UDPNet] Hiba az udp kapcsolatban, a /10.1.39.15 című géptől jött üzenet!
+[2014-10-29 12:33:54.744]	[centterminal.net.udp.UDPNet] Hiba az udp kapcsolatban, a /10.1.39.15 című géptől jött üzenet!
+[2014-10-29 12:33:54.775]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:33:55.650]	[centterminal.net.udp.UDPNet] Hiba az udp kapcsolatban, a /10.1.39.15 című géptől jött üzenet!
+[2014-10-29 12:33:55.775]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:33:56.541]	[centterminal.net.udp.UDPNet] Hiba az udp kapcsolatban, a /10.1.39.15 című géptől jött üzenet!
+[2014-10-29 12:33:56.775]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:33:57.447]	[centterminal.net.udp.UDPNet] Hiba az udp kapcsolatban, a /10.1.39.15 című géptől jött üzenet!
+[2014-10-29 12:33:57.775]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:33:58.338]	[centterminal.net.udp.UDPNet] Hiba az udp kapcsolatban, a /10.1.39.15 című géptől jött üzenet!
+[2014-10-29 12:33:58.775]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2014-10-29 12:33:59.244]	[centterminal.net.udp.UDPNet] Hiba az udp kapcsolatban, a /10.1.39.15 című géptől jött üzenet!
+[2014-10-29 12:33:59.791]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
