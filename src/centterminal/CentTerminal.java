@@ -97,7 +97,7 @@ public class CentTerminal {
     /**
      * A centralográf szerver ip címe.
      */
-    public static String CENTRALOGRAFSERVERIPADDRESS = "10.1.49.200";
+    public static String CENTRALOGRAFSERVERIPADDRESS = "10.3.10.203";
 
     /**
      * SQL elérését tartalmazó cím.
@@ -147,12 +147,12 @@ public class CentTerminal {
      * A számított idő használatának engedélyezése;
      */
     public static boolean calculatedTimeEnable = true;
-    
+
     /**
-     * Verziószám
-     * [főverzió].[ÉVutolsó3számjegy][hónap][nap][aznapi fordításszáma]
+     * Verziószám [főverzió].[ÉVutolsó3számjegy][hónap][nap][aznapi
+     * fordításszáma]
      */
-    public static String VERSION = "1.0141216001";
+    public static String VERSION = "1.0160125001";
 
     /**
      * @param args the command line arguments
@@ -198,6 +198,14 @@ public class CentTerminal {
          * Frame létrehozása
          */
         frame = new CentterminalFrame();
+        try {
+            javax.swing.UIManager.setLookAndFeel("com.sun.java.swing.plaf.windows.WindowsLookAndFeel");
+            javax.swing.SwingUtilities.updateComponentTreeUI(frame);
+            javax.swing.SwingUtilities.updateComponentTreeUI(frame);
+        } catch (Exception ex) {
+            ex.printStackTrace(System.err);
+            debug.printDebugMsg(null, CentTerminal.class.getName(), "Hiba a look and feelben :", ex);
+        }
 
         calculatedTime = new CT();
 
@@ -249,6 +257,7 @@ public class CentTerminal {
             public void run() {
                 while (true) {
                     try {
+
                         synchronized (this) {
                             wait(1000);
                             Calendar now;

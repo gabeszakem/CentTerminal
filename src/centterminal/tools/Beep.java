@@ -10,6 +10,8 @@ import static centterminal.CentTerminal.debug;
 import centterminal.frame.CentterminalFrame;
 import com.excelsior.xFunction.Argument;
 import com.excelsior.xFunction.xFunction;
+import java.awt.Toolkit;
+import java.io.IOException;
 import java.lang.reflect.Field;
 
 /**
@@ -19,9 +21,10 @@ import java.lang.reflect.Field;
 public class Beep {
 
     private final String path;
+    private static boolean noFault = true;
 
     /**
-     *Beep osztály alapértelmezett konstruktor
+     * Beep osztály alapértelmezett konstruktor
      */
     public Beep() {
         String separator = System.getProperty("file.separator");
@@ -32,6 +35,7 @@ public class Beep {
 
     /**
      * Beep osztály megváltoztatott elérési úttal konstruktor.
+     *
      * @param path
      */
     public Beep(String path) {
@@ -63,10 +67,32 @@ public class Beep {
      */
     @SuppressWarnings({"BroadCatchBlock", "TooBroadCatch", "UseSpecificCatch"})
     public boolean beep(boolean beepWorking) {
-        if (System.getProperty("os.name").equals("Windows XP") && beepWorking) {
+        if (System.getProperty("os.name").equals("Windows XP") && beepWorking && noFault) {
+            try {
+                Toolkit.getDefaultToolkit().beep();
+                xFunction b = new xFunction("kernel32", "int Beep(int,int)");
+                b.invoke(new Argument(1000), new Argument(250));
+            } catch (Exception ex) {
+                noFault = false;
+                
+                ex.printStackTrace(System.err);
+                CentTerminal.debug.printDebugMsg(null, CentterminalFrame.class.getName(), "beep error", ex);
+            }
+        } else if (System.getProperty("os.name").equals("Windows 7") && beepWorking && noFault) {
             try {
                 xFunction b = new xFunction("kernel32", "int Beep(int,int)");
                 b.invoke(new Argument(1000), new Argument(250));
+            } catch (Exception ex) {
+                noFault = false;
+                //beepWorking = false;
+                ex.printStackTrace(System.err);
+                CentTerminal.debug.printDebugMsg(null, CentterminalFrame.class.getName(), "beep error", ex);
+            }
+        } else if (!noFault && beepWorking) {
+            try {
+                Toolkit.getDefaultToolkit().beep();
+                //Runtime.getRuntime().exec(System.getProperty("user.dir") + "/beep.exe 300 250");
+
             } catch (Exception ex) {
                 beepWorking = false;
                 ex.printStackTrace(System.err);

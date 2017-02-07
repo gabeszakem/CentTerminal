@@ -1,0 +1,42 @@
+
+
+Version:	3.5
+CmdLine:	C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\windows\centtermial.exe --l4j-debug
+WOW64:		yes
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_31\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_31
+Check launcher:	C:\Program Files\Java\jre1.8.0_31\bin\javaw.exe (OK)
+Match:		1.8.0_31
+Runtime used:	1.8.0_31 (64-bit)
+Substitute:	EXEDIR = C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\windows
+Add classpath:	lib\postgresql-9.3-1101.jdbc4.jar
+Add classpath:	lib\xFunction.jar
+Add classpath:	lib\AbsoluteLayout.jar
+Launcher:	C:\Program Files\Java\jre1.8.0_31\bin\javaw.exe
+Launcher args:	-Dlaunch4j.exedir="C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\windows" -classpath "C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\windows\centtermial.exe;lib\postgresql-9.3-1101.jdbc4.jar;lib\xFunction.jar;lib\AbsoluteLayout.jar" centterminal.CentTerminal
+Args length:	263/32768 chars
+Exit code:	-1
+
+
+Version:	3.5
+CmdLine:	C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\windows\centtermial.exe --l4j-debug
+WOW64:		yes
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_31\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_31
+Check launcher:	C:\Program Files\Java\jre1.8.0_31\bin\javaw.exe (OK)
+Match:		1.8.0_31
+Runtime used:	1.8.0_31 (64-bit)
+Substitute:	EXEDIR = C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\windows
+Add classpath:	lib\postgresql-9.3-1101.jdbc4.jar
+Add classpath:	lib\xFunction.jar
+Add classpath:	lib\AbsoluteLayout.jar
+Launcher:	C:\Program Files\Java\jre1.8.0_31\bin\javaw.exe
+Launcher args:	-Dlaunch4j.exedir="C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\windows" -classpath "C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\windows\centtermial.exe;lib\postgresql-9.3-1101.jdbc4.jar;lib\xFunction.jar;lib\AbsoluteLayout.jar" centterminal.CentTerminal
+Args length:	263/32768 chars
+Exit code:	-1

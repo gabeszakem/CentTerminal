@@ -1,0 +1,10 @@
+[2016-01-22 07:50:47.009]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2016-01-22 07:50:47.056]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\windows\
+[2016-01-22 07:50:49.989]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2016-01-22 07:50:50.129]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2016-01-22 07:50:50.176]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2016-01-22 07:50:51.407]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2016-01-22 07:50:51.407]	[centterminal.frame.CentterminalFrame] shareRecord(int -10003)
+[2016-01-22 07:50:52.560]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2016-01-22 07:50:53.573]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2016-01-22 07:50:54.586]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban

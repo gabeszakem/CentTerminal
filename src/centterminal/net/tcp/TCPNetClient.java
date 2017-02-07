@@ -9,9 +9,9 @@ import java.io.DataOutputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.InetAddress;
-import java.net.ServerSocket;
 import java.net.Socket;
 import java.nio.CharBuffer;
+import java.util.Arrays;
 
 /**
  *
@@ -83,5 +83,6 @@ public class TCPNetClient {
     public void sendTelegram(byte[] sendtelegram) throws IOException {
         DataOutputStream outToClient = new DataOutputStream(clientSocket.getOutputStream());
         outToClient.write(sendtelegram);
+        //System.out.println(Arrays.toString(sendtelegram));
     }
 }

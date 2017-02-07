@@ -34,8 +34,9 @@ public class SQL {
      * SQL kapcsolat létrehozása.
      */
     public SQL() {
-        //this.url = "jdbc:postgresql://allasido.dunaferr.hu:5432/centralograf";
-        this.url = "jdbc:postgresql://10.1.39.11:5432/centralograf";
+        this.url = "jdbc:postgresql://allasido.dunaferr.hu:5432/centralograf";
+        //this.url = "jdbc:postgresql://10.1.39.11:5432/centralograf";
+        //this.url = "jdbc:postgresql://hh-allasido.ms.dunaferr.hu:5432/centralograf";
         this.user = "centcli";
         this.password = "centcli";
     }

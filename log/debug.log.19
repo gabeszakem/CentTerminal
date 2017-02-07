@@ -423,3 +423,670 @@
 [2014-09-19 12:17:52.005]	[centterminal.frame.CentterminalFrame] Record: 2014/09/19 12:17:53 2014/09/19 12:17:54 9001
 [2014-09-19 12:17:52.036]	[centterminal.frame.CentterminalFrame] mode() : TMK
 [2014-09-19 12:17:52.036]	[centterminal.frame.CentterminalFrame] jButtonMaintanenceActionPerformed(evt) : TMK nyomógomb megnyomva
+[2015-06-19 10:57:52.842]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2015-06-19 10:57:52.858]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2015-06-19 10:57:54.683]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2015-06-19 10:57:54.730]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2015-06-19 10:57:54.777]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2015-06-19 10:57:56.071]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 10:57:56.071]	[centterminal.frame.CentterminalFrame] shareRecord(int -10003)
+[2015-06-19 10:57:57.226]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 10:57:58.240]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 10:57:59.254]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 10:58:00.049]	[centterminal.net.tcp.TCPConnectionClient] TCPChecker started
+[2015-06-19 10:58:00.268]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 10:58:01.282]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 10:58:02.296]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:04:17.679]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2015-06-19 11:04:17.679]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2015-06-19 11:04:18.209]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2015-06-19 11:04:18.225]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2015-06-19 11:04:18.256]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2015-06-19 11:04:19.301]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:04:19.301]	[centterminal.frame.CentterminalFrame] shareRecord(int -10003)
+[2015-06-19 11:04:20.377]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:04:21.391]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:04:22.405]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:04:23.295]	[centterminal.net.tcp.TCPConnectionClient] TCPChecker started
+[2015-06-19 11:04:23.419]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:04:24.433]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:04:25.447]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:05:09.720]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2015-06-19 11:05:09.720]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2015-06-19 11:05:10.204]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2015-06-19 11:05:10.204]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2015-06-19 11:05:10.219]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2015-06-19 11:05:11.250]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:05:11.250]	[centterminal.frame.CentterminalFrame] shareRecord(int -10003)
+[2015-06-19 11:05:12.326]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:05:13.340]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:05:14.354]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:05:15.244]	[centterminal.net.tcp.TCPConnectionClient] TCPChecker started
+[2015-06-19 11:05:15.368]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:05:16.382]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:05:17.396]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:12:29.766]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2015-06-19 11:12:29.766]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2015-06-19 11:12:30.296]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2015-06-19 11:12:30.312]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2015-06-19 11:12:30.328]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2015-06-19 11:12:31.357]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:12:31.357]	[centterminal.frame.CentterminalFrame] shareRecord(int -10003)
+[2015-06-19 11:12:32.434]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:12:33.448]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:12:34.462]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:12:38.362]	[centterminal.net.tcp.TCPConnectionClient] TCPChecker started
+[2015-06-19 11:12:38.518]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:12:39.532]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:12:40.546]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:15:42.317]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2015-06-19 11:15:42.317]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2015-06-19 11:15:42.800]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2015-06-19 11:15:42.816]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2015-06-19 11:15:42.832]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2015-06-19 11:15:43.861]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:15:43.861]	[centterminal.frame.CentterminalFrame] shareRecord(int -10003)
+[2015-06-19 11:15:44.922]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:15:45.936]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:15:46.950]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:15:47.855]	[centterminal.net.tcp.TCPConnectionClient] TCPChecker started
+[2015-06-19 11:15:47.964]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:15:48.978]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:15:49.992]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:26:01.325]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 11:26:01.434]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:26:02.448]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:26:03.462]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:26:45.941]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 11:26:46.050]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:26:47.064]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:26:48.078]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:27:06.221]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 11:27:06.330]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:27:07.344]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:27:08.358]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:27:26.501]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 11:27:26.610]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:27:27.624]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:27:28.638]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:27:46.781]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 11:27:46.890]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:27:47.904]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:27:48.918]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:28:17.201]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 11:28:17.310]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:28:18.324]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:28:19.338]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:28:37.481]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 11:28:37.590]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:28:38.604]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:28:39.618]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:29:00.803]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 11:29:00.912]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:29:01.926]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:29:02.940]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:29:39.335]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 11:29:39.444]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:29:40.458]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:29:41.472]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:29:59.615]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 11:29:59.724]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:30:00.738]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:30:01.752]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:30:33.077]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 11:30:33.186]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:30:34.200]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:30:35.214]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:30:53.357]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 11:30:53.466]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:30:54.480]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:30:55.494]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:31:31.889]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 11:31:31.998]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:31:33.012]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 11:31:34.026]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:15:43.228]	[centterminal.frame.CentterminalFrame] jButtonOutageActionPerformed(evt) : Üzemszünet nyomógomb megnyomva
+[2015-06-19 13:15:43.228]	[centterminal.frame.CentterminalFrame] shareRecord(int 9001)
+[2015-06-19 13:15:43.322]	[centterminal.frame.CentterminalFrame] Record: 2015/06/19 11:15:43 2015/06/19 13:15:43 -10003
+[2015-06-19 13:15:43.369]	[centterminal.frame.CentterminalFrame] mode() : Üzemszünet
+[2015-06-19 13:15:43.930]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:15:43.930]	[centterminal.frame.CentterminalFrame] shareRecord(int -10003)
+[2015-06-19 13:15:43.977]	[centterminal.frame.CentterminalFrame] Record: 2015/06/19 13:15:43 2015/06/19 13:15:43 9001
+[2015-06-19 13:15:45.038]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:15:46.052]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:15:46.723]	[centterminal.frame.CentterminalFrame] jButtonProductionActionPerformed(evt) : Termelés nyomógomb megnyomva
+[2015-06-19 13:15:46.723]	[centterminal.frame.CentterminalFrame] shareRecord(int 0)
+[2015-06-19 13:15:46.770]	[centterminal.frame.CentterminalFrame] Record: 2015/06/19 13:15:43 2015/06/19 13:15:46 -10003
+[2015-06-19 13:15:46.832]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2015-06-19 13:15:47.066]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:15:47.066]	[centterminal.frame.CentterminalFrame] shareRecord(int -10003)
+[2015-06-19 13:15:47.113]	[centterminal.frame.CentterminalFrame] Record: 2015/06/19 13:15:46 2015/06/19 13:15:47 0
+[2015-06-19 13:15:48.174]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:15:49.188]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:15:49.780]	[centterminal.frame.CentterminalFrame] jButtonOutageActionPerformed(evt) : Üzemszünet nyomógomb megnyomva
+[2015-06-19 13:15:49.780]	[centterminal.frame.CentterminalFrame] shareRecord(int 9001)
+[2015-06-19 13:15:49.827]	[centterminal.frame.CentterminalFrame] Record: 2015/06/19 13:15:47 2015/06/19 13:15:49 -10003
+[2015-06-19 13:15:49.874]	[centterminal.frame.CentterminalFrame] mode() : Üzemszünet
+[2015-06-19 13:15:50.202]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:15:50.202]	[centterminal.frame.CentterminalFrame] shareRecord(int -10003)
+[2015-06-19 13:15:50.248]	[centterminal.frame.CentterminalFrame] Record: 2015/06/19 13:15:49 2015/06/19 13:15:50 9001
+[2015-06-19 13:15:50.732]	[centterminal.frame.CentterminalFrame] jButtonProductionActionPerformed(evt) : Termelés nyomógomb megnyomva
+[2015-06-19 13:15:50.732]	[centterminal.frame.CentterminalFrame] shareRecord(int 0)
+[2015-06-19 13:15:50.779]	[centterminal.frame.CentterminalFrame] Record: 2015/06/19 13:15:50 2015/06/19 13:15:50 -10003
+[2015-06-19 13:15:50.826]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2015-06-19 13:15:51.169]	[centterminal.frame.CentterminalFrame] jButtonMaintanenceActionPerformed(evt) : TMK nyomógomb megnyomva
+[2015-06-19 13:15:51.169]	[centterminal.frame.CentterminalFrame] shareRecord(int 9002)
+[2015-06-19 13:15:51.216]	[centterminal.frame.CentterminalFrame] Record: 2015/06/19 13:15:50 2015/06/19 13:15:51 0
+[2015-06-19 13:15:51.278]	[centterminal.frame.CentterminalFrame] mode() : TMK
+[2015-06-19 13:15:51.309]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:15:51.309]	[centterminal.frame.CentterminalFrame] shareRecord(int -10003)
+[2015-06-19 13:15:51.340]	[centterminal.frame.CentterminalFrame] Record: 2015/06/19 13:15:51 2015/06/19 13:15:51 9002
+[2015-06-19 13:15:52.308]	[centterminal.frame.CentterminalFrame] jButtonOutageActionPerformed(evt) : Üzemszünet nyomógomb megnyomva
+[2015-06-19 13:15:52.308]	[centterminal.frame.CentterminalFrame] shareRecord(int 9001)
+[2015-06-19 13:15:52.354]	[centterminal.frame.CentterminalFrame] Record: 2015/06/19 13:15:51 2015/06/19 13:15:52 -10003
+[2015-06-19 13:15:52.401]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:15:52.401]	[centterminal.frame.CentterminalFrame] mode() : Üzemszünet
+[2015-06-19 13:15:52.401]	[centterminal.frame.CentterminalFrame] shareRecord(int -10003)
+[2015-06-19 13:15:52.448]	[centterminal.frame.CentterminalFrame] Record: 2015/06/19 13:15:52 2015/06/19 13:15:52 9001
+[2015-06-19 13:15:52.978]	[centterminal.frame.CentterminalFrame] jButtonMaintanenceActionPerformed(evt) : TMK nyomógomb megnyomva
+[2015-06-19 13:15:52.978]	[centterminal.frame.CentterminalFrame] shareRecord(int 9002)
+[2015-06-19 13:15:53.025]	[centterminal.frame.CentterminalFrame] Record: 2015/06/19 13:15:52 2015/06/19 13:15:52 -10003
+[2015-06-19 13:15:53.072]	[centterminal.frame.CentterminalFrame] mode() : TMK
+[2015-06-19 13:15:53.493]	[centterminal.frame.CentterminalFrame] jButtonProductionActionPerformed(evt) : Termelés nyomógomb megnyomva
+[2015-06-19 13:15:53.493]	[centterminal.frame.CentterminalFrame] shareRecord(int 0)
+[2015-06-19 13:15:53.509]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:15:53.540]	[centterminal.frame.CentterminalFrame] Record: 2015/06/19 13:15:53 2015/06/19 13:15:53 9002
+[2015-06-19 13:15:53.587]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2015-06-19 13:15:53.587]	[centterminal.frame.CentterminalFrame] shareRecord(int -10003)
+[2015-06-19 13:15:53.634]	[centterminal.frame.CentterminalFrame] Record: 2015/06/19 13:15:53 2015/06/19 13:15:53 0
+[2015-06-19 13:15:54.694]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:15:55.022]	[centterminal.frame.CentterminalFrame] jButtonMaintanenceActionPerformed(evt) : TMK nyomógomb megnyomva
+[2015-06-19 13:15:55.022]	[centterminal.frame.CentterminalFrame] shareRecord(int 9002)
+[2015-06-19 13:15:55.069]	[centterminal.frame.CentterminalFrame] Record: 2015/06/19 13:15:53 2015/06/19 13:15:55 -10003
+[2015-06-19 13:15:55.116]	[centterminal.frame.CentterminalFrame] mode() : TMK
+[2015-06-19 13:15:55.568]	[centterminal.frame.CentterminalFrame] jButtonOutageActionPerformed(evt) : Üzemszünet nyomógomb megnyomva
+[2015-06-19 13:15:55.568]	[centterminal.frame.CentterminalFrame] shareRecord(int 9001)
+[2015-06-19 13:15:55.615]	[centterminal.frame.CentterminalFrame] Record: 2015/06/19 13:15:55 2015/06/19 13:15:55 9002
+[2015-06-19 13:15:55.662]	[centterminal.frame.CentterminalFrame] mode() : Üzemszünet
+[2015-06-19 13:15:55.708]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:15:55.708]	[centterminal.frame.CentterminalFrame] shareRecord(int -10003)
+[2015-06-19 13:15:55.755]	[centterminal.frame.CentterminalFrame] Record: 2015/06/19 13:15:55 2015/06/19 13:15:55 9001
+[2015-06-19 13:15:56.052]	[centterminal.frame.CentterminalFrame] jButtonProductionActionPerformed(evt) : Termelés nyomógomb megnyomva
+[2015-06-19 13:15:56.052]	[centterminal.frame.CentterminalFrame] shareRecord(int 0)
+[2015-06-19 13:15:56.098]	[centterminal.frame.CentterminalFrame] Record: 2015/06/19 13:15:55 2015/06/19 13:15:56 -10003
+[2015-06-19 13:15:56.145]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2015-06-19 13:15:56.816]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:15:56.816]	[centterminal.frame.CentterminalFrame] shareRecord(int -10003)
+[2015-06-19 13:15:56.863]	[centterminal.frame.CentterminalFrame] Record: 2015/06/19 13:15:56 2015/06/19 13:15:56 0
+[2015-06-19 13:15:57.924]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:15:58.938]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:15:59.281]	[centterminal.frame.CentterminalFrame] jButtonMaintanenceActionPerformed(evt) : TMK nyomógomb megnyomva
+[2015-06-19 13:15:59.281]	[centterminal.frame.CentterminalFrame] shareRecord(int 9002)
+[2015-06-19 13:15:59.328]	[centterminal.frame.CentterminalFrame] Record: 2015/06/19 13:15:56 2015/06/19 13:15:59 -10003
+[2015-06-19 13:15:59.390]	[centterminal.frame.CentterminalFrame] mode() : TMK
+[2015-06-19 13:15:59.718]	[centterminal.frame.CentterminalFrame] jButtonOutageActionPerformed(evt) : Üzemszünet nyomógomb megnyomva
+[2015-06-19 13:15:59.733]	[centterminal.frame.CentterminalFrame] shareRecord(int 9001)
+[2015-06-19 13:15:59.780]	[centterminal.frame.CentterminalFrame] Record: 2015/06/19 13:15:59 2015/06/19 13:15:59 9002
+[2015-06-19 13:15:59.811]	[centterminal.frame.CentterminalFrame] mode() : Üzemszünet
+[2015-06-19 13:15:59.952]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:15:59.952]	[centterminal.frame.CentterminalFrame] shareRecord(int -10003)
+[2015-06-19 13:15:59.998]	[centterminal.frame.CentterminalFrame] Record: 2015/06/19 13:15:59 2015/06/19 13:15:59 9001
+[2015-06-19 13:16:00.108]	[centterminal.frame.CentterminalFrame] jButtonProductionActionPerformed(evt) : Termelés nyomógomb megnyomva
+[2015-06-19 13:16:00.108]	[centterminal.frame.CentterminalFrame] shareRecord(int 0)
+[2015-06-19 13:16:00.154]	[centterminal.frame.CentterminalFrame] Record: 2015/06/19 13:16:00 2015/06/19 13:16:00 -10003
+[2015-06-19 13:16:00.201]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2015-06-19 13:16:01.059]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:16:01.059]	[centterminal.frame.CentterminalFrame] shareRecord(int -10003)
+[2015-06-19 13:16:01.090]	[centterminal.frame.CentterminalFrame] Record: 2015/06/19 13:16:00 2015/06/19 13:16:01 0
+[2015-06-19 13:16:01.886]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:16:02.167]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:16:02.416]	[centterminal.frame.CentterminalFrame] jButtonMaintanenceActionPerformed(evt) : TMK nyomógomb megnyomva
+[2015-06-19 13:16:02.416]	[centterminal.frame.CentterminalFrame] shareRecord(int 9002)
+[2015-06-19 13:16:02.463]	[centterminal.frame.CentterminalFrame] Record: 2015/06/19 13:16:01 2015/06/19 13:16:02 -10003
+[2015-06-19 13:16:02.510]	[centterminal.frame.CentterminalFrame] mode() : TMK
+[2015-06-19 13:16:02.838]	[centterminal.frame.CentterminalFrame] jButtonProductionActionPerformed(evt) : Termelés nyomógomb megnyomva
+[2015-06-19 13:16:02.838]	[centterminal.frame.CentterminalFrame] shareRecord(int 0)
+[2015-06-19 13:16:02.884]	[centterminal.frame.CentterminalFrame] Record: 2015/06/19 13:16:02 2015/06/19 13:16:02 9002
+[2015-06-19 13:16:02.931]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2015-06-19 13:16:03.181]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:16:03.181]	[centterminal.frame.CentterminalFrame] shareRecord(int -10003)
+[2015-06-19 13:16:03.228]	[centterminal.frame.CentterminalFrame] Record: 2015/06/19 13:16:02 2015/06/19 13:16:03 0
+[2015-06-19 13:16:04.288]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:16:05.302]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:16:06.316]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:16:22.150]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:16:22.524]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:16:23.538]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:16:24.552]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:16:42.299]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:16:42.658]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:16:43.662]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:16:44.671]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:17:02.384]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:17:02.746]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:17:03.750]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:17:04.771]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:17:22.470]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:17:22.847]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:17:23.818]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:17:24.854]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:17:42.556]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:17:42.930]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:17:43.934]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:17:44.939]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:18:02.638]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:18:03.015]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:18:04.020]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:18:05.025]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:18:22.724]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:18:23.101]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:18:24.089]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:18:25.107]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:18:42.776]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:18:43.184]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:18:44.188]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:18:45.194]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:19:02.893]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:19:03.269]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:19:04.275]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:19:05.279]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:19:22.978]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:19:23.372]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:19:24.372]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:19:25.378]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:19:43.046]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:19:43.453]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:19:44.459]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:19:45.463]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:20:03.146]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:20:03.540]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:20:04.544]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:20:05.549]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:20:23.232]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:20:23.593]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:20:24.627]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:20:25.632]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:20:43.315]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:20:43.708]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:20:44.712]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:20:45.717]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:21:03.401]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:21:03.793]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:21:04.798]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:21:05.803]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:21:23.486]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:21:23.876]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:21:24.881]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:21:25.885]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:21:43.571]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:21:43.962]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:21:44.966]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:21:45.972]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:22:03.656]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:22:04.052]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:22:05.023]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:22:06.023]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:22:24.642]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:22:25.032]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:22:26.032]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:22:27.032]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:22:44.648]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:22:45.099]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:22:46.099]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:22:47.070]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:23:04.696]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:23:05.144]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:23:06.126]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:23:07.129]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:23:24.761]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:23:25.199]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:23:26.224]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:23:27.227]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:23:44.777]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:23:45.216]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:23:46.217]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:23:47.217]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:24:04.779]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:24:05.226]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:24:06.226]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:24:07.226]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:24:24.783]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:24:25.234]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:24:26.234]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:24:27.234]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:24:45.783]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 21s)
+[2015-06-19 13:24:46.234]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:24:47.234]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:24:48.235]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:25:05.786]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:25:06.239]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:25:07.239]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:25:08.239]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:25:25.788]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:25:26.241]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:25:27.241]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:25:28.241]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:25:45.791]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:25:46.244]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:25:47.244]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:25:48.244]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:26:05.831]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:26:06.276]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:26:07.276]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:26:08.276]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:26:25.916]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:26:26.355]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:26:27.359]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:26:28.361]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:26:45.933]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:26:46.347]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:26:47.349]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:26:48.349]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:27:06.040]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:27:06.450]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:27:07.453]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:27:08.454]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:27:26.121]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:27:26.531]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:27:27.513]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:27:28.513]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:27:46.154]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:27:46.579]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:27:47.602]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:27:48.599]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:28:06.229]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:28:06.657]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:28:07.657]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:28:08.657]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:28:26.260]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:28:26.704]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:28:27.686]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:28:28.686]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:28:46.310]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:28:46.752]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:28:47.752]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:28:48.752]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:29:06.352]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:29:06.811]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:29:07.798]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:29:08.800]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:29:26.428]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:29:26.855]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:29:27.855]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:29:28.888]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:29:46.478]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:29:46.893]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:29:47.894]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:29:48.895]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:30:06.499]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:30:06.897]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:30:07.897]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:30:08.897]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:30:27.499]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 21s)
+[2015-06-19 13:30:27.897]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:30:28.897]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:30:29.898]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:30:48.499]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 21s)
+[2015-06-19 13:30:48.898]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:30:49.898]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:30:50.898]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:31:09.499]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 21s)
+[2015-06-19 13:31:09.898]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:31:10.899]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:31:11.899]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:31:29.506]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:31:29.903]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:31:30.903]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:31:31.904]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:31:49.512]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:31:49.906]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:31:50.906]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:31:51.906]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:32:09.523]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:32:09.909]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:32:10.909]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:32:11.909]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:32:29.531]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:32:29.911]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:32:30.933]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:32:31.915]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:32:49.556]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:32:49.932]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:32:50.932]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:32:51.932]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:33:10.556]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 21s)
+[2015-06-19 13:33:10.933]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:33:11.933]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:33:12.933]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:33:31.556]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 21s)
+[2015-06-19 13:33:31.933]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:33:32.933]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:33:33.933]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:33:52.556]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 21s)
+[2015-06-19 13:33:52.933]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:33:53.933]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:33:54.933]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:34:13.556]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 21s)
+[2015-06-19 13:34:13.933]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:34:14.933]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:34:15.934]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:34:33.557]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:34:33.934]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:34:34.934]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:34:35.934]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:34:54.557]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 21s)
+[2015-06-19 13:34:54.934]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:34:55.934]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:34:56.934]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:35:15.557]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 21s)
+[2015-06-19 13:35:15.934]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:35:16.934]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:35:17.934]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:35:36.557]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 21s)
+[2015-06-19 13:35:36.934]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:35:37.934]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:35:38.934]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:35:57.557]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 21s)
+[2015-06-19 13:35:57.934]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:35:58.934]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:35:59.934]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:36:18.557]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 21s)
+[2015-06-19 13:36:18.934]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:36:19.934]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:36:20.934]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:36:39.557]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 21s)
+[2015-06-19 13:36:39.934]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:36:40.934]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:36:41.934]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:37:00.557]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 21s)
+[2015-06-19 13:37:00.934]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:37:01.934]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:37:02.934]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:37:21.557]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 21s)
+[2015-06-19 13:37:21.934]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:37:22.934]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:37:23.934]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:37:42.557]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 21s)
+[2015-06-19 13:37:42.934]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:37:43.934]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:37:44.934]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:38:02.580]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:38:02.960]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:38:03.965]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:38:04.947]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:38:22.676]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:38:23.026]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:38:24.029]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:38:25.029]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:38:42.794]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:38:43.169]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:38:44.162]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:38:45.162]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:39:02.924]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:39:03.314]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:39:04.328]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:39:05.342]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:39:23.204]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:39:23.594]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:39:24.608]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:39:25.622]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:39:43.484]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:39:43.874]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:39:44.888]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:39:45.902]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:40:03.764]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:40:04.154]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:40:05.168]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:40:06.182]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:40:24.044]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:40:24.434]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:40:25.448]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:40:26.462]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:40:44.324]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:40:44.714]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:40:45.728]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:40:46.742]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:41:04.604]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:41:04.994]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:41:06.008]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:41:07.022]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:41:24.884]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:41:25.274]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:41:26.288]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:41:27.302]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:41:45.164]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:41:45.554]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:41:46.568]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:41:47.582]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:42:05.444]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:42:05.834]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:42:06.848]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:42:07.862]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:42:25.724]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:42:26.114]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:42:27.128]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:42:28.142]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:42:46.004]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:42:46.394]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:42:47.408]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:42:48.422]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:43:06.284]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:43:06.674]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:43:07.688]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:43:08.702]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:43:26.564]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:43:26.954]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:43:27.968]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:43:28.982]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:43:46.844]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:43:47.234]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:43:48.248]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:43:49.262]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:44:07.124]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:44:07.514]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:44:08.528]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:44:09.542]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:44:27.404]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:44:27.794]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:44:28.808]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:44:29.822]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:44:47.684]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:44:48.074]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:44:49.088]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:44:50.102]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:45:07.964]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:45:08.354]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:45:09.368]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:45:10.382]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:45:28.244]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:45:28.634]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:45:29.648]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:45:30.662]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:45:48.524]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:45:48.914]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:45:49.928]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:45:50.942]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:46:08.804]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:46:09.194]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:46:10.208]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:46:11.222]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:46:29.084]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:46:29.474]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:46:30.488]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:46:31.502]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:46:49.364]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:46:49.754]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:46:50.768]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:46:51.782]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:47:09.644]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:47:10.034]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:47:11.048]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:47:12.062]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:47:29.924]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:47:30.314]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:47:31.328]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:47:32.342]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:47:50.204]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:47:50.594]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:47:51.608]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:47:52.622]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:48:10.484]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:48:10.874]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:48:11.888]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:48:12.902]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:48:30.764]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:48:31.154]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:48:32.168]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:48:33.182]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:48:51.044]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:48:51.434]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:48:52.448]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:48:53.462]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:49:11.324]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:49:11.714]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:49:12.728]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:49:13.742]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:49:31.604]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:49:31.994]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:49:33.008]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:49:34.022]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:49:51.884]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:49:52.274]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:49:53.288]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:49:54.302]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:50:12.164]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:50:12.554]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:50:13.568]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:50:14.582]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:50:32.444]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:50:32.834]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:50:33.848]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:50:34.862]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:50:52.724]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:50:53.114]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:50:54.128]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:50:55.142]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:51:13.004]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:51:13.394]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:51:14.408]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:51:15.422]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:51:33.284]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:51:33.674]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:51:34.688]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:51:35.702]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:51:53.564]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:51:53.970]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:51:54.984]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:51:55.998]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:52:13.844]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:52:14.250]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:52:15.264]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:52:16.278]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:52:34.124]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:52:34.530]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:52:35.544]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:52:36.558]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:52:54.404]	[centterminal.net.tcp.TCPConnectionClient] Socket close command (Time: 20s)
+[2015-06-19 13:52:54.810]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:52:55.824]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-06-19 13:52:56.838]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban

@@ -1,0 +1,29 @@
+[2015-10-14 10:17:42.021]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2015-10-14 10:17:42.037]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\windows\
+[2015-10-14 10:17:42.848]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2015-10-14 10:17:42.863]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2015-10-14 10:17:42.895]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2015-10-14 10:17:44.018]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-10-14 10:17:44.018]	[centterminal.frame.CentterminalFrame] shareRecord(int -10003)
+[2015-10-14 10:17:45.079]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-10-14 10:17:46.093]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-10-14 10:17:47.107]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-10-14 10:17:56.672]	[centterminal.frame.CentterminalFrame] jButtonOutageActionPerformed(evt) : Üzemszünet nyomógomb megnyomva
+[2015-10-14 10:17:56.672]	[centterminal.frame.CentterminalFrame] shareRecord(int 9001)
+[2015-10-14 10:17:56.719]	[centterminal.frame.CentterminalFrame] Record: 2015/10/14 10:17:44 2015/10/14 10:17:56 -10003
+[2015-10-14 10:17:56.782]	[centterminal.frame.CentterminalFrame] mode() : Üzemszünet
+[2015-10-14 10:17:57.234]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-10-14 10:17:57.234]	[centterminal.frame.CentterminalFrame] shareRecord(int -10003)
+[2015-10-14 10:17:57.281]	[centterminal.frame.CentterminalFrame] Record: 2015/10/14 10:17:56 2015/10/14 10:17:57 9001
+[2015-10-14 10:17:58.342]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-10-14 10:17:59.356]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-10-14 10:17:59.792]	[centterminal.frame.CentterminalFrame] jButtonProductionActionPerformed(evt) : Termelés nyomógomb megnyomva
+[2015-10-14 10:17:59.792]	[centterminal.frame.CentterminalFrame] shareRecord(int 0)
+[2015-10-14 10:17:59.855]	[centterminal.frame.CentterminalFrame] Record: 2015/10/14 10:17:57 2015/10/14 10:17:59 -10003
+[2015-10-14 10:17:59.902]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2015-10-14 10:18:00.370]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-10-14 10:18:00.370]	[centterminal.frame.CentterminalFrame] shareRecord(int -10003)
+[2015-10-14 10:18:00.432]	[centterminal.frame.CentterminalFrame] Record: 2015/10/14 10:17:59 2015/10/14 10:18:00 0
+[2015-10-14 10:18:01.493]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-10-14 10:18:02.507]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban
+[2015-10-14 10:18:03.521]	[centterminal.frame.CentterminalFrame] com,Err() : Hiba a PLC kommunikációban

@@ -32,6 +32,8 @@ public class TCPConnectionClient extends Thread {
     private int plcPort;
     @SuppressWarnings("FieldMayBeFinal")
     private InetAddress ipAddress;
+    @SuppressWarnings("FieldMayBeFinal")
+    private long lastValidMessageTime = System.currentTimeMillis();
 
     /**
      *
@@ -63,6 +65,35 @@ public class TCPConnectionClient extends Thread {
                     if (CentTerminal.frame.serverPanel.getBackground() != CentTerminal.frame.communicationOkColor) {
                         CentTerminal.frame.serverPanel.setBackground(CentTerminal.frame.communicationOkColor);
                     }
+
+                    Thread checkTCP = new Thread("TCPChecker(másodpercenként futó)") {
+                        @Override
+                        public void run() {
+                            String message = "TCPChecker started";
+                            System.out.println(message);
+                            CentTerminal.debug.printDebugMsg(null, TCPConnectionClient.class.getName(), message);
+                            while (true) {
+                                try {
+                                    synchronized (this) {
+                                        wait(1000);
+                                        long estimatedTime = System.currentTimeMillis() - TCPConnectionClient.this.lastValidMessageTime;
+
+                                        if (estimatedTime > 20000) {
+                                            message = "Socket close command (Time: " + estimatedTime / 1000 + "s)";
+                                            System.out.println(message);
+                                            CentTerminal.debug.printDebugMsg(null, TCPConnectionClient.class.getName(), message);
+                                            TCPConnectionClient.this.lastValidMessageTime = System.currentTimeMillis();
+                                            TCPConnectionClient.this.tcp.clientSocket.close();
+                                        }
+                                    }
+                                } catch (Exception ex) {
+
+                                }
+                            }
+                        }
+                    };
+                    checkTCP.start();
+
                     break;
                 }
             } catch (Exception ex) {
@@ -97,6 +128,8 @@ public class TCPConnectionClient extends Thread {
                         FillDataFromBuffer.load(this.receiveMessageClass, receiveTelegram);
                         //System.out.println("A fogadott üzenet: " + CentTerminal.receiveMessage.message);
                         if (CentTerminal.receiveMessage.message == 'D') {
+                            //Az utoljára fogadott érvényes üzenet időpontja.
+                            this.lastValidMessageTime = System.currentTimeMillis();
                             CentTerminal.sendMessage = new Message();
                             CentTerminal.sendMessage.status = CentTerminal.status;
                             CentTerminal.sendMessage.aDowntime = CentTerminal.actRecord.downtimeStart;
@@ -147,7 +180,8 @@ public class TCPConnectionClient extends Thread {
      * @param aObject
      */
     @SuppressWarnings({"BroadCatchBlock", "TooBroadCatch"})
-    public void sendTelegram(Object aObject) {
+    public void sendTelegram(Object aObject
+    ) {
         try {
             tcp.sendTelegram(FillDataToBuffer.load(aObject, bufferSize));
         } catch (IOException ex) {

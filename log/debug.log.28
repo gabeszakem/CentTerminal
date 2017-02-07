@@ -264,3 +264,147 @@
 [2014-10-28 12:37:33.157]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
 [2014-10-28 12:37:34.160]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
 [2014-10-28 12:37:35.162]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-04-28 08:08:44.641]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2015-04-28 08:08:44.672]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2015-04-28 08:08:46.169]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2015-04-28 08:08:46.263]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2015-04-28 08:08:46.310]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2015-04-28 08:08:48.073]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2015-04-28 08:08:49.087]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2015-04-28 08:08:50.101]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2015-04-28 08:14:18.587]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2015-04-28 08:14:18.587]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2015-04-28 08:14:19.274]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2015-04-28 08:14:19.289]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2015-04-28 08:14:19.305]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2015-04-28 08:14:20.428]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2015-04-28 08:14:21.442]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2015-04-28 08:14:22.456]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2015-04-28 08:15:46.556]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2015-04-28 08:15:47.538]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-04-28 08:15:48.552]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-04-28 08:19:18.276]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2015-04-28 08:19:18.276]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2015-04-28 08:19:18.760]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2015-04-28 08:19:18.775]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2015-04-28 08:19:18.806]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2015-04-28 08:19:18.962]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2015-04-28 08:19:19.852]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-04-28 08:19:20.866]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-04-28 08:19:21.880]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-04-28 08:22:05.599]	[centterminal.CentTerminal] Operációs rendszer típusa: Windows 7
+[2015-04-28 08:22:05.614]	[centterminal.CentTerminal] System property: java.library.path: C:\Users\gkovacs02\Dropbox\javaprog\CentTerminal\
+[2015-04-28 08:22:06.051]	[centterminal.sql.SQL] Plant.createCodeTextCache(): Álláskód szövegek gyorsítótárazása...
+[2015-04-28 08:22:06.067]	[centterminal.sql.SQL] Az álláskód szövegek gyorsítótárazása sikerült
+[2015-04-28 08:22:06.082]	[centterminal.frame.CentterminalFrame] mode() : Termelés
+[2015-04-28 08:22:06.160]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2015-04-28 08:22:07.112]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-04-28 08:22:08.126]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-04-28 08:22:09.140]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-04-28 08:22:49.563]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2015-04-28 08:22:49.563]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2015-04-28 08:22:49.609]	[centterminal.frame.CentterminalFrame] Record: 2015/04/28 08:22:05 2015/04/28 08:22:49 0
+[2015-04-28 08:22:49.625]	[centterminal.net.tcp.TCPConnectionClient] Allasidőnek küldött rekord: 1 0 0 	1430202125990 1430202169392 0
+[2015-04-28 08:22:49.687]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2015-04-28 08:22:50.701]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2015-04-28 08:22:51.715]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2015-04-28 08:23:34.553]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2015-04-28 08:23:35.318]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-04-28 08:23:36.332]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-04-28 08:23:37.336]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-04-28 08:23:49.567]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2015-04-28 08:23:49.567]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2015-04-28 08:23:49.613]	[centterminal.frame.CentterminalFrame] Record: 2015/04/28 08:23:34 2015/04/28 08:23:49 0
+[2015-04-28 08:23:50.518]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2015-04-28 08:23:50.565]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2015-04-28 08:23:51.532]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-04-28 08:23:52.546]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-04-28 08:23:53.560]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-04-28 08:23:54.200]	[centterminal.net.tcp.TCPConnectionClient] Allasidőnek küldött rekord: 1 1430202230404 0 	1430202214398 1430202229390 0
+[2015-04-28 08:23:54.574]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-04-28 08:23:55.588]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-04-28 08:23:56.602]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-04-28 08:23:58.537]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2015-04-28 08:23:58.537]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2015-04-28 08:23:58.583]	[centterminal.frame.CentterminalFrame] Record: 2015/04/28 08:23:50 2015/04/28 08:23:58 0
+[2015-04-28 08:23:58.630]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2015-04-28 08:23:59.644]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2015-04-28 08:24:00.658]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2015-04-28 08:24:01.563]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2015-04-28 08:24:01.672]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-04-28 08:24:02.561]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2015-04-28 08:24:02.561]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2015-04-28 08:24:02.608]	[centterminal.frame.CentterminalFrame] Record: 2015/04/28 08:24:01 2015/04/28 08:24:02 0
+[2015-04-28 08:24:02.686]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2015-04-28 08:24:03.560]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2015-04-28 08:24:03.700]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-04-28 08:24:04.714]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-04-28 08:24:05.728]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-04-28 08:24:07.558]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2015-04-28 08:24:07.558]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2015-04-28 08:24:07.620]	[centterminal.frame.CentterminalFrame] Record: 2015/04/28 08:24:03 2015/04/28 08:24:07 0
+[2015-04-28 08:24:07.745]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2015-04-28 08:24:08.556]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2015-04-28 08:24:08.759]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-04-28 08:24:09.773]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-04-28 08:24:10.553]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2015-04-28 08:24:10.553]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2015-04-28 08:24:10.600]	[centterminal.frame.CentterminalFrame] Record: 2015/04/28 08:24:08 2015/04/28 08:24:10 0
+[2015-04-28 08:24:10.787]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2015-04-28 08:24:11.567]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2015-04-28 08:24:11.801]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-04-28 08:24:12.815]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-04-28 08:24:13.829]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-04-28 08:24:47.666]	[centterminal.net.tcp.TCPConnectionClient] Allasidőnek küldött rekord: 1 1430202251402 0 	1430202248391 1430202250388 0
+[2015-04-28 08:24:47.681]	[centterminal.net.tcp.TCPConnectionClient] Allasidőnek küldött rekord: 1 1430202251402 0 	1430202243383 1430202247408 0
+[2015-04-28 08:24:47.681]	[centterminal.net.tcp.TCPConnectionClient] Allasidőnek küldött rekord: 1 1430202251402 0 	1430202241402 1430202242400 0
+[2015-04-28 08:24:47.697]	[centterminal.net.tcp.TCPConnectionClient] Allasidőnek küldött rekord: 1 1430202251402 0 	1430202230404 1430202238376 0
+[2015-04-28 08:24:48.305]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-04-28 08:24:49.319]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-04-28 08:24:50.333]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-04-28 08:26:30.546]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2015-04-28 08:26:30.546]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2015-04-28 08:26:30.599]	[centterminal.frame.CentterminalFrame] Record: 2015/04/28 08:24:11 2015/04/28 08:26:30 0
+[2015-04-28 08:26:31.459]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2015-04-28 08:26:32.480]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2015-04-28 08:26:33.494]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2015-04-28 08:26:44.574]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2015-04-28 08:26:44.621]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-04-28 08:26:45.612]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-04-28 08:26:46.638]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-04-28 08:26:53.704]	[centterminal.net.tcp.TCPConnectionClient] Allasidőnek küldött rekord: 1 1430202404409 0 	1430202251402 1430202390401 0
+[2015-04-28 08:26:53.736]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-04-28 08:26:54.750]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-04-28 08:26:55.764]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-04-28 08:27:35.568]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2015-04-28 08:27:35.568]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2015-04-28 08:27:36.285]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2015-04-28 08:27:36.613]	[centterminal.sql.SQL] Hiba a következő lekérdezéskor: :
+								org.postgresql.util.PSQLException: Connection attempt timed out.
+	at org.postgresql.Driver$ConnectThread.getResult(Driver.java:372)
+	at org.postgresql.Driver.connect(Driver.java:284)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:247)
+	at centterminal.sql.SQL.serverUnixTime(SQL.java:107)
+	at centterminal.frame.CentterminalFrame.stopToRun(CentterminalFrame.java:1155)
+	at centterminal.net.udp.UDPConnectionServer.run(UDPConnectionServer.java:80)
+
+[2015-04-28 08:27:36.613]	[centterminal.frame.CentterminalFrame] Record: 2015/04/28 08:26:44 2015/04/28 08:27:36 0
+[2015-04-28 08:27:37.299]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2015-04-28 08:27:38.313]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2015-04-28 08:27:39.316]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2015-04-28 08:27:46.304]	[centterminal.net.tcp.TCPConnectionClient] Allasidőnek küldött rekord: 1 0 0 	1430202404409 1430202456394 0
+[2015-04-28 08:27:46.414]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2015-04-28 08:27:47.428]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2015-04-28 08:27:48.442]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2015-04-28 08:27:54.572]	[centterminal.frame.CentterminalFrame] runToStop() : A berendezés megállt
+[2015-04-28 08:27:55.540]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-04-28 08:27:56.554]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-04-28 08:27:57.568]	[centterminal.frame.CentterminalFrame] refresh() : A sor áll
+[2015-04-28 08:28:08.568]	[centterminal.frame.CentterminalFrame] stopToRun() : A berendezés elindult
+[2015-04-28 08:28:08.568]	[centterminal.frame.CentterminalFrame] stopToRun()
+[2015-04-28 08:28:08.615]	[centterminal.frame.CentterminalFrame] Record: 2015/04/28 08:27:54 2015/04/28 08:28:08 0
+[2015-04-28 08:28:08.630]	[centterminal.net.tcp.TCPConnectionClient] Allasidőnek küldött rekord: 1 0 0 	1430202474412 1430202488405 0
+[2015-04-28 08:28:08.708]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2015-04-28 08:28:09.709]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel
+[2015-04-28 08:28:10.709]	[centterminal.frame.CentterminalFrame] refresh() : A sor termel

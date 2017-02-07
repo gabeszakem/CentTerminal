@@ -11,6 +11,7 @@ import centterminal.record.Record;
 import centterminal.tools.ActualDate;
 import java.awt.Color;
 import java.awt.Toolkit;
+import java.awt.event.KeyAdapter;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
@@ -45,23 +46,30 @@ public class CentterminalFrame extends javax.swing.JFrame {
      * A terminál ablak
      */
     public CentterminalFrame() {
+
         /**
          * Inicializálás
          */
         initComponents();
-        
+        jPanel1.addKeyListener(new KeyAdapter() {
+        });
+        jPanel2.addKeyListener(new KeyAdapter() {
+        });
+        jPanel3.addKeyListener(new KeyAdapter() {
+        });
+
         serverPanel.setMinimumSize(new java.awt.Dimension(10, 10));
         serverPanel.setPreferredSize(new java.awt.Dimension(10, 10));
         serverPanel.setLayout(new java.awt.GridBagLayout());
-        
+
         plcPanel.setMinimumSize(new java.awt.Dimension(10, 10));
         plcPanel.setPreferredSize(new java.awt.Dimension(10, 10));
         plcPanel.setLayout(new java.awt.GridBagLayout());
-        
+
         dbPanel.setMinimumSize(new java.awt.Dimension(10, 10));
         dbPanel.setPreferredSize(new java.awt.Dimension(10, 10));
         dbPanel.setLayout(new java.awt.GridBagLayout());
-        
+
         /**
          * Ikon beállítása
          */
@@ -297,6 +305,7 @@ public class CentterminalFrame extends javax.swing.JFrame {
 
         jButtonSetDownTimeCode.setText("Állásidő megadása");
         jButtonSetDownTimeCode.setEnabled(false);
+        jButtonSetDownTimeCode.setFocusable(false);
         jButtonSetDownTimeCode.setMaximumSize(new java.awt.Dimension(125, 23));
         jButtonSetDownTimeCode.setMinimumSize(new java.awt.Dimension(125, 23));
         jButtonSetDownTimeCode.setPreferredSize(new java.awt.Dimension(160, 50));
@@ -314,6 +323,7 @@ public class CentterminalFrame extends javax.swing.JFrame {
 
         jButtonModifyDownTimeCode.setText("Állásidő módosítása");
         jButtonModifyDownTimeCode.setEnabled(false);
+        jButtonModifyDownTimeCode.setFocusable(false);
         jButtonModifyDownTimeCode.setPreferredSize(new java.awt.Dimension(160, 50));
         jButtonModifyDownTimeCode.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -330,6 +340,7 @@ public class CentterminalFrame extends javax.swing.JFrame {
         jButtonShareDownTime.setText("Állásidő megosztása");
         jButtonShareDownTime.setToolTipText("");
         jButtonShareDownTime.setEnabled(false);
+        jButtonShareDownTime.setFocusable(false);
         jButtonShareDownTime.setHorizontalTextPosition(javax.swing.SwingConstants.LEADING);
         jButtonShareDownTime.setMaximumSize(new java.awt.Dimension(125, 23));
         jButtonShareDownTime.setMinimumSize(new java.awt.Dimension(125, 23));
@@ -477,6 +488,7 @@ public class CentterminalFrame extends javax.swing.JFrame {
         jButtonProduction.setText("Termelés");
         jButtonProduction.setToolTipText("");
         jButtonProduction.setEnabled(false);
+        jButtonProduction.setFocusable(false);
         jButtonProduction.setMaximumSize(new java.awt.Dimension(125, 23));
         jButtonProduction.setMinimumSize(new java.awt.Dimension(125, 23));
         jButtonProduction.setPreferredSize(new java.awt.Dimension(160, 50));
@@ -491,6 +503,7 @@ public class CentterminalFrame extends javax.swing.JFrame {
 
         jButtonOutage.setText("Üzemszünet");
         jButtonOutage.setEnabled(false);
+        jButtonOutage.setFocusable(false);
         jButtonOutage.setMaximumSize(new java.awt.Dimension(125, 23));
         jButtonOutage.setMinimumSize(new java.awt.Dimension(125, 23));
         jButtonOutage.setPreferredSize(new java.awt.Dimension(160, 50));
@@ -505,6 +518,7 @@ public class CentterminalFrame extends javax.swing.JFrame {
 
         jButtonMaintanence.setText("TMK");
         jButtonMaintanence.setEnabled(false);
+        jButtonMaintanence.setFocusable(false);
         jButtonMaintanence.setMaximumSize(new java.awt.Dimension(125, 23));
         jButtonMaintanence.setMinimumSize(new java.awt.Dimension(125, 23));
         jButtonMaintanence.setPreferredSize(new java.awt.Dimension(160, 50));
@@ -530,6 +544,7 @@ public class CentterminalFrame extends javax.swing.JFrame {
 
         jButtonAboutBox.setBackground(BUTTONDEFAULTCOLOR);
         jButtonAboutBox.setText("Névjegy");
+        jButtonAboutBox.setFocusable(false);
         jButtonAboutBox.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButtonAboutBoxActionPerformed(evt);
@@ -876,8 +891,10 @@ public class CentterminalFrame extends javax.swing.JFrame {
         treeCodeSelector.setEnabled(false);
         communicationOk = false;
     }
- /**
-     * Kommunikáció rendben Ha a kommunikáció rendbejött, akkor töröljük a kommunikációs hibát
+
+    /**
+     * Kommunikáció rendben Ha a kommunikáció rendbejött, akkor töröljük a
+     * kommunikációs hibát
      */
     public void commOk() {
         if (!communicationOk) {
@@ -901,6 +918,7 @@ public class CentterminalFrame extends javax.swing.JFrame {
                  * Ha az állásidőkódot nem adták meg a beállított időn belül
                  * akkor beepeljen.
                  */
+
                 if (CentTerminal.pLCSignals.plantStatus == 0) {
                     long downTimeLong;
                     if (CentTerminal.calculatedTimeEnable) {
@@ -913,7 +931,6 @@ public class CentterminalFrame extends javax.swing.JFrame {
                             && (downTimeLong)
                             > CentTerminal.beepTimeOut && CentTerminal.actRecord.code == 0) {
 
-                        Toolkit.getDefaultToolkit().beep();
                         beepWorking = CentTerminal.beepClass.beep(beepWorking);
                     }
 
